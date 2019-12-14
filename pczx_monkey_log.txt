@@ -1,0 +1,2954 @@
+  bash arg: -p
+  bash arg: com.paiche.net.pczx
+  bash arg: -s
+  bash arg: 500
+  bash arg: -v
+  bash arg: 60000
+:Monkey: seed=500 count=60000
+:AllowPackage: com.paiche.net.pczx
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(452.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(454.0877,1340.3214)
+:Sending Touch (ACTION_DOWN): 0:(213.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(190.4717,1604.1869)
+:Sending Touch (ACTION_DOWN): 0:(300.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(311.01562,1041.5267)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(69.0,2017.0)
+:Sending Touch (ACTION_UP): 0:(68.81869,2018.4392)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(702.79114,1608.7952)
+:Sending Touch (ACTION_DOWN): 0:(327.0,549.0)
+:Sending Touch (ACTION_UP): 0:(320.34302,552.5113)
+:Sending Touch (ACTION_DOWN): 0:(719.0,2028.0)
+:Sending Touch (ACTION_UP): 0:(685.90906,2046.7207)
+:Sending Touch (ACTION_DOWN): 0:(883.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(782.3506,1750.1666)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2019-12-06 14:06:32.890  system_uptime:339399481]
+    // Sending event #100
+    //[calendar_time:2019-12-06 14:06:32.891  system_uptime:339399482]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(371.0,1200.0)
+:Sending Touch (ACTION_UP): 0:(368.21472,1202.3579)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(305.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(251.6425,1187.3131)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(104.575035,1622.9436)
+:Sending Touch (ACTION_DOWN): 0:(570.0,1927.0)
+:Sending Touch (ACTION_UP): 0:(555.9452,1924.36)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(786.0,283.0)
+:Sending Touch (ACTION_UP): 0:(801.3442,279.88727)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1937.0)
+:Sending Touch (ACTION_UP): 0:(1025.3593,1934.3291)
+:Sending Touch (ACTION_DOWN): 0:(352.0,948.0)
+:Sending Touch (ACTION_UP): 0:(370.6715,943.6177)
+:Sending Touch (ACTION_DOWN): 0:(1.0,985.0)
+:Sending Touch (ACTION_UP): 0:(4.8124356,977.7089)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(952.0,48.0)
+:Sending Touch (ACTION_UP): 0:(929.0962,92.54155)
+    //[calendar_time:2019-12-06 14:06:33.325  system_uptime:339399916]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(452.0,2005.0)
+:Sending Touch (ACTION_UP): 0:(452.29303,2008.86)
+:Sending Touch (ACTION_DOWN): 0:(40.0,237.0)
+:Sending Touch (ACTION_UP): 0:(54.262985,232.27379)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(0.51323557,1385.4791)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(348.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(414.18317,1416.0033)
+:Sending Touch (ACTION_DOWN): 0:(256.0,1490.0)
+:Sending Touch (ACTION_UP): 0:(309.07782,1504.9473)
+:Sending Touch (ACTION_DOWN): 0:(847.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(873.47845,1719.728)
+:Sending Touch (ACTION_DOWN): 0:(574.0,26.0)
+:Sending Touch (ACTION_UP): 0:(456.18488,125.502716)
+:Sending Touch (ACTION_DOWN): 0:(16.0,1807.0)
+:Sending Touch (ACTION_UP): 0:(18.25164,1805.1111)
+:Sending Touch (ACTION_DOWN): 0:(734.0,15.0)
+:Sending Touch (ACTION_UP): 0:(728.35254,22.43272)
+:Sending Touch (ACTION_DOWN): 0:(486.0,79.0)
+:Sending Touch (ACTION_UP): 0:(464.97046,72.880905)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2019-12-06 14:06:33.486  system_uptime:339400077]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(372.24927,1471.9344)
+:Sending Touch (ACTION_DOWN): 0:(121.0,901.0)
+:Sending Touch (ACTION_UP): 0:(111.170586,906.9139)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(998.48444,1384.1787)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(305.1334,1172.5983)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(361.0,1342.0)
+:Sending Touch (ACTION_UP): 0:(280.74847,1310.2507)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2019-12-06 14:06:33.650  system_uptime:339400240]
+    // Sending event #400
+    //[calendar_time:2019-12-06 14:06:33.650  system_uptime:339400241]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(859.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(859.13226,1762.346)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(105.0,678.0)
+:Sending Touch (ACTION_UP): 0:(115.323944,677.81305)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,786.0)
+:Sending Touch (ACTION_UP): 0:(256.8199,738.85187)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,231.0)
+:Sending Touch (ACTION_UP): 0:(10.338125,233.58609)
+:Sending Touch (ACTION_DOWN): 0:(941.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(880.517,1199.1115)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(605.0,770.0)
+    //[calendar_time:2019-12-06 14:06:33.811  system_uptime:339400401]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(631.9773,750.89557)
+:Sending Touch (ACTION_DOWN): 0:(677.0,959.0)
+:Sending Touch (ACTION_UP): 0:(753.60187,976.4131)
+:Sending Touch (ACTION_DOWN): 0:(549.0,788.0)
+:Sending Touch (ACTION_UP): 0:(557.5818,788.10986)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(638.0,1598.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_UP): 0:(574.04865,1565.621)
+:Sending Touch (ACTION_DOWN): 0:(300.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(302.25482,1560.7578)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(985.6965,1215.7301)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    //[calendar_time:2019-12-06 14:06:33.953  system_uptime:339400544]
+    // Sending event #600
+    //[calendar_time:2019-12-06 14:06:33.954  system_uptime:339400544]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(553.0,2054.0)
+:Sending Touch (ACTION_UP): 0:(550.248,2064.7515)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,643.0)
+:Sending Touch (ACTION_UP): 0:(400.8371,661.04834)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(119.0,178.0)
+:Sending Touch (ACTION_UP): 0:(111.55658,139.5681)
+:Sending Touch (ACTION_DOWN): 0:(660.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(646.35474,1494.7836)
+:Sending Touch (ACTION_DOWN): 0:(596.0,250.0)
+:Sending Touch (ACTION_UP): 0:(610.8079,253.75038)
+:Sending Touch (ACTION_DOWN): 0:(100.0,342.0)
+:Sending Touch (ACTION_UP): 0:(107.23551,331.20898)
+:Sending Touch (ACTION_DOWN): 0:(394.0,249.0)
+:Sending Touch (ACTION_UP): 0:(392.96378,250.70123)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1393.0)
+:Sending Touch (ACTION_UP): 0:(1065.3912,1359.1151)
+:Sending Touch (ACTION_DOWN): 0:(388.0,962.0)
+:Sending Touch (ACTION_UP): 0:(403.84775,944.8902)
+:Sending Touch (ACTION_DOWN): 0:(325.0,520.0)
+:Sending Touch (ACTION_UP): 0:(318.06207,514.2603)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(236.0,560.0)
+:Sending Touch (ACTION_UP): 0:(218.30716,561.5061)
+:Sending Touch (ACTION_DOWN): 0:(291.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(279.90332,1040.1067)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(586.0211,1153.6768)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2019-12-06 14:06:34.489  system_uptime:339401080]
+    // Sending event #700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(783.0,1971.0)
+:Sending Touch (ACTION_UP): 0:(727.9437,1926.0974)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(263.0,490.0)
+:Sending Touch (ACTION_UP): 0:(291.8459,528.96985)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,446.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,490.85727)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(334.02454,1728.1102)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1805.0)
+:Sending Touch (ACTION_UP): 0:(421.0652,1796.4625)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+    //[calendar_time:2019-12-06 14:06:34.825  system_uptime:339401416]
+    // Sending event #800
+    //[calendar_time:2019-12-06 14:06:34.826  system_uptime:339401417]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(304.0,328.0)
+:Sending Touch (ACTION_UP): 0:(306.25504,340.29297)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,2025.0)
+:Sending Touch (ACTION_UP): 0:(1019.4499,2042.1505)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(583.32544,1204.2739)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(363.0,1342.0)
+:Sending Touch (ACTION_UP): 0:(364.15668,1365.8877)
+:Sending Touch (ACTION_DOWN): 0:(90.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(74.31251,1686.9181)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(554.0,341.0)
+    //[calendar_time:2019-12-06 14:06:35.058  system_uptime:339401648]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(549.8344,329.59467)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(348.0,1953.0)
+:Sending Touch (ACTION_UP): 0:(355.0049,1937.8773)
+:Sending Touch (ACTION_DOWN): 0:(197.0,428.0)
+:Sending Touch (ACTION_UP): 0:(192.92702,419.19064)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(299.0,369.0)
+:Sending Touch (ACTION_UP): 0:(302.76297,288.05765)
+:Sending Touch (ACTION_DOWN): 0:(308.0,144.0)
+:Sending Touch (ACTION_UP): 0:(281.9091,128.018)
+:Sending Touch (ACTION_DOWN): 0:(835.0,829.0)
+:Sending Touch (ACTION_UP): 0:(845.57556,834.3888)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(564.62506,1533.7988)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(997.0,1827.0)
+:Sending Touch (ACTION_UP): 0:(985.3028,1829.2067)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(441.0,2011.0)
+:Sending Touch (ACTION_UP): 0:(468.70578,2065.8545)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1452.0)
+    //[calendar_time:2019-12-06 14:06:35.481  system_uptime:339402071]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(989.2344,1359.3527)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(257.88733,1721.2821)
+:Sending Touch (ACTION_DOWN): 0:(633.0,82.0)
+:Sending Touch (ACTION_UP): 0:(629.96423,80.77226)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(442.28787,1317.7943)
+:Sending Touch (ACTION_DOWN): 0:(652.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(655.5013,1599.0078)
+:Sending Touch (ACTION_DOWN): 0:(461.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(469.25546,1073.5022)
+:Sending Touch (ACTION_DOWN): 0:(965.0,910.0)
+:Sending Touch (ACTION_UP): 0:(911.7577,982.44617)
+:Sending Touch (ACTION_DOWN): 0:(36.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(27.021646,1244.7067)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(904.0,1566.0)
+:Sending Touch (ACTION_UP): 0:(903.9023,1572.619)
+:Sending Touch (ACTION_DOWN): 0:(191.0,647.0)
+:Sending Touch (ACTION_UP): 0:(187.0973,647.70734)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2019-12-06 14:06:35.640  system_uptime:339402231]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(467.0,890.0)
+:Sending Touch (ACTION_UP): 0:(467.3821,894.97394)
+:Sending Touch (ACTION_DOWN): 0:(283.0,1683.0)
+:Sending Touch (ACTION_UP): 0:(284.25912,1671.3134)
+:Sending Touch (ACTION_DOWN): 0:(671.0,375.0)
+:Sending Touch (ACTION_UP): 0:(673.53125,385.7968)
+:Sending Touch (ACTION_DOWN): 0:(1025.0,1667.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1745.0607)
+:Sending Touch (ACTION_DOWN): 0:(922.0,290.0)
+:Sending Touch (ACTION_UP): 0:(929.6371,289.57504)
+:Sending Touch (ACTION_DOWN): 0:(249.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(248.86015,1627.7363)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2019-12-06 14:06:36.137  system_uptime:339402727]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(776.0,549.0)
+:Sending Touch (ACTION_UP): 0:(787.90894,550.2131)
+:Sending Touch (ACTION_DOWN): 0:(772.0,1470.0)
+:Sending Touch (ACTION_UP): 0:(768.1218,1464.779)
+:Sending Touch (ACTION_DOWN): 0:(256.0,712.0)
+:Sending Touch (ACTION_UP): 0:(258.38336,710.83795)
+:Sending Touch (ACTION_DOWN): 0:(874.0,870.0)
+:Sending Touch (ACTION_UP): 0:(879.91534,868.5037)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,1960.0)
+:Sending Touch (ACTION_UP): 0:(275.3403,1956.3569)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2019-12-06 14:06:36.508  system_uptime:339403099]
+    // Sending event #1300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(361.0,485.0)
+:Sending Touch (ACTION_UP): 0:(376.16745,494.4475)
+:Sending Touch (ACTION_DOWN): 0:(689.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(690.15625,1732.7637)
+:Sending Touch (ACTION_DOWN): 0:(719.0,123.0)
+:Sending Touch (ACTION_UP): 0:(769.9445,71.379395)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(521.0,1942.0)
+:Sending Touch (ACTION_UP): 0:(462.27258,1898.8108)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(179.97385,1227.1925)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    //[calendar_time:2019-12-06 14:06:36.742  system_uptime:339403332]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(231.0,429.0)
+:Sending Touch (ACTION_UP): 0:(227.79404,414.81442)
+:Sending Touch (ACTION_DOWN): 0:(751.0,617.0)
+:Sending Touch (ACTION_UP): 0:(743.0888,609.5217)
+:Sending Touch (ACTION_DOWN): 0:(795.0,409.0)
+:Sending Touch (ACTION_UP): 0:(797.6756,391.0125)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(877.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(938.44507,1007.4693)
+:Sending Touch (ACTION_DOWN): 0:(342.0,587.0)
+:Sending Touch (ACTION_UP): 0:(333.32504,598.6479)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1962.0)
+:Sending Touch (ACTION_UP): 0:(897.0564,1955.0385)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(63.454334,1015.89044)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(774.0,1994.0)
+:Sending Touch (ACTION_UP): 0:(729.90765,1941.4985)
+:Sending Touch (ACTION_DOWN): 0:(370.0,1220.0)
+    //[calendar_time:2019-12-06 14:06:36.975  system_uptime:339403565]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(362.73245,1266.2736)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LoginWebActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LoginWebActivity } in package com.paiche.net.pczx
+    // activityResuming(com.paiche.net.pczx)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1885.0)
+:Sending Touch (ACTION_UP): 0:(223.82814,1869.6711)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(526.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(532.29236,1278.4404)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,40.0)
+:Sending Touch (ACTION_UP): 0:(1056.6682,5.156534)
+:Sending Touch (ACTION_DOWN): 0:(732.0,1833.0)
+:Sending Touch (ACTION_UP): 0:(731.9262,1826.6539)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(236.27632,1279.957)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2019-12-06 14:06:37.527  system_uptime:339404118]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(259.0,142.0)
+:Sending Touch (ACTION_UP): 0:(229.21657,153.53516)
+:Sending Touch (ACTION_DOWN): 0:(880.0,841.0)
+:Sending Touch (ACTION_UP): 0:(887.6451,848.8901)
+:Sending Touch (ACTION_DOWN): 0:(720.0,116.0)
+:Sending Touch (ACTION_UP): 0:(705.92413,116.061386)
+:Sending Touch (ACTION_DOWN): 0:(291.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(279.60614,1307.5131)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(622.514,1471.3893)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(548.4018,1882.5334)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(838.4646,1213.929)
+:Sending Touch (ACTION_DOWN): 0:(235.0,117.0)
+:Sending Touch (ACTION_UP): 0:(184.12129,106.90491)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(994.0,519.0)
+:Sending Touch (ACTION_UP): 0:(991.314,517.7497)
+:Sending Touch (ACTION_DOWN): 0:(799.0,530.0)
+    //[calendar_time:2019-12-06 14:06:37.896  system_uptime:339404487]
+    // Sending event #1700
+:Sending Touch (ACTION_UP): 0:(761.5897,599.9136)
+:Sending Touch (ACTION_DOWN): 0:(269.0,204.0)
+:Sending Touch (ACTION_UP): 0:(271.56033,192.59972)
+:Sending Touch (ACTION_DOWN): 0:(448.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(453.4369,1413.3359)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(734.0,383.0)
+:Sending Touch (ACTION_UP): 0:(724.5753,379.93686)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(659.0,685.0)
+:Sending Touch (ACTION_UP): 0:(575.0676,722.79944)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(361.0,272.0)
+:Sending Touch (ACTION_UP): 0:(358.62256,267.36856)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2019-12-06 14:06:38.122  system_uptime:339404713]
+    // Sending event #1800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(522.0,1841.0)
+:Sending Touch (ACTION_UP): 0:(516.17255,1833.0554)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(77.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(76.984505,1176.9191)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(1058.0,1402.0)
+:Sending Touch (ACTION_UP): 0:(1027.9768,1391.3988)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2019-12-06 14:06:38.318  system_uptime:339404909]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(558.0,954.0)
+:Sending Touch (ACTION_UP): 0:(568.8426,998.9769)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(186.8227,1666.404)
+:Sending Touch (ACTION_DOWN): 0:(570.0,30.0)
+:Sending Touch (ACTION_UP): 0:(561.0066,75.584854)
+:Sending Touch (ACTION_DOWN): 0:(695.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(749.38184,1279.0979)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(550.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(560.4574,1512.1075)
+:Sending Touch (ACTION_DOWN): 0:(748.0,110.0)
+:Sending Touch (ACTION_UP): 0:(745.72577,111.07156)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(237.41211,1143.1615)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1560.0)
+:Sending Touch (ACTION_UP): 0:(657.84534,1549.153)
+:Sending Touch (ACTION_DOWN): 0:(536.0,69.0)
+:Sending Touch (ACTION_UP): 0:(538.8247,73.28695)
+:Sending Touch (ACTION_DOWN): 0:(815.0,1450.0)
+:Sending Touch (ACTION_UP): 0:(821.6949,1449.8318)
+:Sending Touch (ACTION_DOWN): 0:(586.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(589.59955,1087.1086)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,54.0)
+    //[calendar_time:2019-12-06 14:06:38.677  system_uptime:339405267]
+    // Sending event #2000
+:Sending Touch (ACTION_UP): 0:(755.2541,40.426224)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(778.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(774.7472,1109.1796)
+:Sending Touch (ACTION_DOWN): 0:(869.0,471.0)
+:Sending Touch (ACTION_UP): 0:(865.6956,477.64166)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(818.0,1838.0)
+:Sending Touch (ACTION_UP): 0:(810.28534,1825.0598)
+:Sending Touch (ACTION_DOWN): 0:(59.0,1355.0)
+:Sending Touch (ACTION_UP): 0:(66.60893,1353.8385)
+:Sending Touch (ACTION_DOWN): 0:(534.0,898.0)
+:Sending Touch (ACTION_UP): 0:(529.73816,889.37866)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings$UsbDetailsActivity } in package com.android.settings
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(965.0,791.0)
+:Sending Touch (ACTION_UP): 0:(966.55334,778.88477)
+    // Rejecting start of Intent { act=miui.intent.action.NETWORKASSISTANT_ENTRANCE cmp=com.miui.securitycenter/com.miui.networkassistant.ui.NetworkAssistantActivity } in package com.miui.securitycenter
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(885.0,1356.0)
+    //[calendar_time:2019-12-06 14:06:39.046  system_uptime:339405636]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(885.7702,1346.6953)
+:Sending Touch (ACTION_DOWN): 0:(110.0,513.0)
+:Sending Touch (ACTION_UP): 0:(97.44124,501.80673)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,804.0)
+:Sending Touch (ACTION_UP): 0:(1017.1102,804.3494)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(349.0,1929.0)
+:Sending Touch (ACTION_UP): 0:(366.3858,1908.8893)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1962.0)
+:Sending Touch (ACTION_UP): 0:(1030.2334,1970.4188)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(198.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(190.49854,1765.3689)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(422.0,600.0)
+:Sending Touch (ACTION_UP): 0:(417.58563,599.1091)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1623.0)
+:Sending Touch (ACTION_UP): 0:(1046.7765,1710.8358)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2019-12-06 14:06:39.520  system_uptime:339406111]
+    // Sending event #2200
+    //[calendar_time:2019-12-06 14:06:39.521  system_uptime:339406112]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,826.0)
+:Sending Touch (ACTION_UP): 0:(708.45953,816.2119)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(890.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(963.91187,1805.6552)
+:Sending Touch (ACTION_DOWN): 0:(646.0,990.0)
+:Sending Touch (ACTION_UP): 0:(647.8486,978.0416)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(428.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(414.83557,1318.2842)
+:Sending Touch (ACTION_DOWN): 0:(427.0,679.0)
+:Sending Touch (ACTION_UP): 0:(461.99222,711.17444)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(901.2862,1056.6958)
+    //[calendar_time:2019-12-06 14:06:40.053  system_uptime:339406643]
+    // Sending event #2300
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(281.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(312.32205,1161.0107)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(291.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(284.95477,1218.1469)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(950.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(928.86896,1244.8375)
+:Sending Touch (ACTION_DOWN): 0:(292.0,2059.0)
+:Sending Touch (ACTION_UP): 0:(294.74765,2067.8857)
+:Sending Touch (ACTION_DOWN): 0:(288.0,617.0)
+:Sending Touch (ACTION_UP): 0:(283.82535,630.99695)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2019-12-06 14:06:40.653  system_uptime:339407244]
+    // Sending event #2400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(330.0,785.0)
+:Sending Touch (ACTION_UP): 0:(374.48593,892.3201)
+:Sending Touch (ACTION_DOWN): 0:(472.0,1485.0)
+:Sending Touch (ACTION_UP): 0:(412.26138,1583.3551)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(203.0,321.0)
+:Sending Touch (ACTION_UP): 0:(207.41481,315.1826)
+:Sending Touch (ACTION_DOWN): 0:(810.0,374.0)
+:Sending Touch (ACTION_UP): 0:(802.21014,374.81924)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(21.188541,1028.721)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    //[calendar_time:2019-12-06 14:06:40.953  system_uptime:339407543]
+    // Sending event #2500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,245.0)
+:Sending Touch (ACTION_UP): 0:(203.4635,166.41508)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,1185.0)
+:Sending Touch (ACTION_UP): 0:(236.4252,1248.2637)
+:Sending Touch (ACTION_DOWN): 0:(431.0,1997.0)
+:Sending Touch (ACTION_UP): 0:(417.3256,2008.8295)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2019-12-06 14:06:41.253  system_uptime:339407844]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(446.0,1870.0)
+:Sending Touch (ACTION_UP): 0:(460.33273,1862.5669)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(89.0,1944.0)
+:Sending Touch (ACTION_UP): 0:(33.326138,1971.881)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1884.0)
+:Sending Touch (ACTION_UP): 0:(1019.2157,1882.8625)
+:Sending Touch (ACTION_DOWN): 0:(77.0,822.0)
+:Sending Touch (ACTION_UP): 0:(75.752594,813.1565)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1896.0)
+:Sending Touch (ACTION_UP): 0:(787.1311,1904.7611)
+:Sending Touch (ACTION_DOWN): 0:(693.0,259.0)
+:Sending Touch (ACTION_UP): 0:(678.0257,259.64035)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2019-12-06 14:06:41.485  system_uptime:339408076]
+    // Sending event #2700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1058.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_UP): 0:(640.85187,1011.71265)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1855.0)
+:Sending Touch (ACTION_UP): 0:(801.25854,1850.769)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1491.0)
+:Sending Touch (ACTION_UP): 0:(814.60315,1498.5745)
+:Sending Touch (ACTION_DOWN): 0:(558.0,167.0)
+:Sending Touch (ACTION_UP): 0:(566.2266,175.58469)
+:Sending Touch (ACTION_DOWN): 0:(304.0,901.0)
+:Sending Touch (ACTION_UP): 0:(290.22556,908.07404)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(895.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(905.62335,988.17706)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2019-12-06 14:06:42.253  system_uptime:339408843]
+    // Sending event #2800
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/com.paiche.module_main.activity.LiveMainActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/com.paiche.module_main.activity.LiveMainActivity } in package com.paiche.net.pczx
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(871.1029,1094.4292)
+:Sending Touch (ACTION_DOWN): 0:(55.0,623.0)
+:Sending Touch (ACTION_UP): 0:(62.215,618.9861)
+:Sending Touch (ACTION_DOWN): 0:(465.0,524.0)
+:Sending Touch (ACTION_UP): 0:(407.66962,495.15063)
+:Sending Touch (ACTION_DOWN): 0:(192.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(188.88263,1042.9689)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(80.0,1944.0)
+:Sending Touch (ACTION_UP): 0:(80.89135,1955.2251)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(469.0,412.0)
+:Sending Touch (ACTION_UP): 0:(469.80048,417.9596)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(73.67281,1132.6539)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1866.0)
+:Sending Touch (ACTION_UP): 0:(544.699,1884.0327)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(567.7202,1153.3793)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1346.0)
+:Sending Touch (ACTION_UP): 0:(915.8644,1352.0981)
+:Sending Touch (ACTION_DOWN): 0:(908.0,580.0)
+:Sending Touch (ACTION_UP): 0:(903.8627,585.6906)
+:Sending Touch (ACTION_DOWN): 0:(761.0,506.0)
+:Sending Touch (ACTION_UP): 0:(744.1973,457.55933)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2019-12-06 14:06:43.281  system_uptime:339409871]
+    // Sending event #2900
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(150.39241,1384.9856)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1972.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(154.09273,2065.3936)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1063.0,360.0)
+:Sending Touch (ACTION_UP): 0:(1065.705,349.02307)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1836.0)
+:Sending Touch (ACTION_UP): 0:(803.019,1735.1654)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(712.0,274.0)
+:Sending Touch (ACTION_UP): 0:(723.8582,260.93454)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(586.0,15.0)
+:Sending Touch (ACTION_UP): 0:(584.8046,7.9363384)
+:Sending Touch (ACTION_DOWN): 0:(32.0,1365.0)
+    //[calendar_time:2019-12-06 14:06:43.820  system_uptime:339410411]
+    // Sending event #3000
+:Sending Touch (ACTION_UP): 0:(0.0,1305.7574)
+:Sending Touch (ACTION_DOWN): 0:(663.0,942.0)
+:Sending Touch (ACTION_UP): 0:(665.19794,941.6581)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(949.0,161.0)
+:Sending Touch (ACTION_UP): 0:(968.07477,152.89062)
+:Sending Touch (ACTION_DOWN): 0:(481.0,5.0)
+:Sending Touch (ACTION_UP): 0:(512.84875,0.0)
+:Sending Touch (ACTION_DOWN): 0:(285.0,923.0)
+:Sending Touch (ACTION_UP): 0:(286.42545,932.4781)
+:Sending Touch (ACTION_DOWN): 0:(75.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(84.93478,1710.1313)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(74.0,1851.0)
+:Sending Touch (ACTION_UP): 0:(90.56582,1851.2394)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2019-12-06 14:06:44.150  system_uptime:339410741]
+    // Sending event #3100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1302.0)
+:Sending Touch (ACTION_UP): 0:(171.8823,1300.9846)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(455.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(449.09534,1740.1675)
+:Sending Touch (ACTION_DOWN): 0:(393.0,631.0)
+:Sending Touch (ACTION_UP): 0:(394.64737,630.9398)
+:Sending Touch (ACTION_DOWN): 0:(618.0,234.0)
+:Sending Touch (ACTION_UP): 0:(627.9538,232.86353)
+:Sending Touch (ACTION_DOWN): 0:(965.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(962.1941,1179.402)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(481.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(481.0266,1273.4967)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(740.92316,1252.7367)
+    //[calendar_time:2019-12-06 14:06:44.438  system_uptime:339411030]
+    // Sending event #3200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(187.0,500.0)
+:Sending Touch (ACTION_UP): 0:(183.2556,493.4695)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(623.0,734.0)
+:Sending Touch (ACTION_UP): 0:(635.5376,716.6568)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(629.69336,1526.9113)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1208.0)
+:Sending Touch (ACTION_UP): 0:(809.83276,1201.0074)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings$UsbDetailsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(846.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(845.54596,1378.4586)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(5.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1622.4136)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(370.0,20.0)
+:Sending Touch (ACTION_UP): 0:(388.5992,11.062801)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1298.0)
+    //[calendar_time:2019-12-06 14:06:44.906  system_uptime:339411497]
+    // Sending event #3300
+:Sending Touch (ACTION_UP): 0:(700.04944,1238.1229)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,1256.0)
+:Sending Touch (ACTION_UP): 0:(88.66476,1237.2018)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(598.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(498.6191,1713.58)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(932.0,897.0)
+:Sending Touch (ACTION_UP): 0:(926.76605,899.7157)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(796.0,1400.0)
+    //[calendar_time:2019-12-06 14:06:45.053  system_uptime:339411643]
+    // Sending event #3400
+:Sending Touch (ACTION_UP): 0:(826.50024,1381.1342)
+:Sending Touch (ACTION_DOWN): 0:(834.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(830.97174,1291.2052)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,1352.0)
+:Sending Touch (ACTION_UP): 0:(60.917828,1382.9773)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(307.0,1859.0)
+:Sending Touch (ACTION_UP): 0:(298.50067,1880.9006)
+:Sending Touch (ACTION_DOWN): 0:(634.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(621.0377,1552.2954)
+:Sending Touch (ACTION_DOWN): 0:(945.0,53.0)
+:Sending Touch (ACTION_UP): 0:(929.3723,51.477917)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(430.0,896.0)
+    //[calendar_time:2019-12-06 14:06:45.826  system_uptime:339412417]
+    // Sending event #3500
+:Sending Touch (ACTION_UP): 0:(403.2677,878.37756)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(819.0,569.0)
+:Sending Touch (ACTION_UP): 0:(753.0267,504.49435)
+:Sending Touch (ACTION_DOWN): 0:(715.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(728.01434,1132.2476)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(1071.5315,1032.4431)
+:Sending Touch (ACTION_DOWN): 0:(185.0,230.0)
+:Sending Touch (ACTION_UP): 0:(186.36052,242.99655)
+:Sending Touch (ACTION_DOWN): 0:(795.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(821.07574,1410.715)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(728.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(738.7587,1403.9631)
+:Sending Touch (ACTION_DOWN): 0:(766.0,799.0)
+:Sending Touch (ACTION_UP): 0:(732.9815,684.1938)
+:Sending Touch (ACTION_DOWN): 0:(227.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(236.64513,1626.5217)
+:Sending Touch (ACTION_DOWN): 0:(432.0,215.0)
+:Sending Touch (ACTION_UP): 0:(445.89966,226.47469)
+:Sending Touch (ACTION_DOWN): 0:(155.0,829.0)
+:Sending Touch (ACTION_UP): 0:(155.44142,824.5596)
+:Sending Touch (ACTION_DOWN): 0:(359.0,776.0)
+:Sending Touch (ACTION_UP): 0:(357.88132,776.56476)
+:Sending Touch (ACTION_DOWN): 0:(414.0,762.0)
+:Sending Touch (ACTION_UP): 0:(425.383,760.0652)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2019-12-06 14:06:46.131  system_uptime:339412722]
+    // Sending event #3600
+:Sending Touch (ACTION_DOWN): 0:(519.0,253.0)
+:Sending Touch (ACTION_UP): 0:(585.1027,254.02043)
+:Sending Touch (ACTION_DOWN): 0:(173.0,1258.0)
+:Sending Touch (ACTION_UP): 0:(88.72951,1234.8044)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(713.0,273.0)
+:Sending Touch (ACTION_UP): 0:(726.5231,271.37445)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1381.0)
+:Sending Touch (ACTION_UP): 0:(151.69032,1381.7775)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(842.0,1189.0)
+:Sending Touch (ACTION_UP): 0:(838.94653,1172.9073)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    //[calendar_time:2019-12-06 14:06:47.159  system_uptime:339413750]
+    // Sending event #3700
+    // activityResuming(com.paiche.net.pczx)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,412.0)
+:Sending Touch (ACTION_UP): 0:(531.37463,413.53668)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(911.7664,1291.5298)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(793.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(788.00916,1558.3376)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(489.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(526.1765,1119.468)
+:Sending Touch (ACTION_DOWN): 0:(15.0,99.0)
+:Sending Touch (ACTION_UP): 0:(29.384289,107.155556)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(571.0,1798.0)
+    //[calendar_time:2019-12-06 14:06:47.678  system_uptime:339414269]
+    // Sending event #3800
+:Sending Touch (ACTION_UP): 0:(621.692,1815.0271)
+:Sending Touch (ACTION_DOWN): 0:(29.0,690.0)
+:Sending Touch (ACTION_UP): 0:(28.490297,685.9908)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,867.0)
+:Sending Touch (ACTION_UP): 0:(303.651,892.66486)
+:Sending Touch (ACTION_DOWN): 0:(588.0,711.0)
+:Sending Touch (ACTION_UP): 0:(596.707,709.54)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,895.0)
+:Sending Touch (ACTION_UP): 0:(350.02167,885.369)
+:Sending Touch (ACTION_DOWN): 0:(774.0,297.0)
+:Sending Touch (ACTION_UP): 0:(839.8941,226.26918)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2019-12-06 14:06:48.339  system_uptime:339414930]
+    // Sending event #3900
+    //[calendar_time:2019-12-06 14:06:48.340  system_uptime:339414931]
+    // Sending event #3900
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(84.0,610.0)
+:Sending Touch (ACTION_UP): 0:(86.1304,609.8131)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(421.0,923.0)
+:Sending Touch (ACTION_UP): 0:(409.10345,919.8907)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(886.0,1426.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_UP): 0:(891.7254,1426.9218)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(340.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(338.92093,1531.4792)
+:Sending Touch (ACTION_DOWN): 0:(143.0,462.0)
+    //[calendar_time:2019-12-06 14:06:49.222  system_uptime:339415813]
+    // Sending event #4000
+:Sending Touch (ACTION_UP): 0:(132.75296,481.42334)
+:Sending Touch (ACTION_DOWN): 0:(402.0,962.0)
+:Sending Touch (ACTION_UP): 0:(386.00943,854.93695)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(84.80387,1777.9769)
+:Sending Touch (ACTION_DOWN): 0:(933.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(771.9345,1466.0465)
+:Sending Touch (ACTION_DOWN): 0:(775.0,430.0)
+:Sending Touch (ACTION_UP): 0:(848.3012,391.97748)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(447.3804,1516.3927)
+:Sending Touch (ACTION_DOWN): 0:(874.0,386.0)
+:Sending Touch (ACTION_UP): 0:(846.4699,410.35107)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1649.0)
+:Sending Touch (ACTION_UP): 0:(490.50256,1650.881)
+:Sending Touch (ACTION_DOWN): 0:(393.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(419.377,1201.3538)
+:Sending Touch (ACTION_DOWN): 0:(78.0,193.0)
+:Sending Touch (ACTION_UP): 0:(82.92131,198.79504)
+    //[calendar_time:2019-12-06 14:06:49.942  system_uptime:339416533]
+    // Sending event #4100
+    //[calendar_time:2019-12-06 14:06:49.943  system_uptime:339416533]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(216.0,1846.0)
+:Sending Touch (ACTION_UP): 0:(215.20691,1844.8588)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(140.46019,1231.1405)
+:Sending Touch (ACTION_DOWN): 0:(664.0,173.0)
+:Sending Touch (ACTION_UP): 0:(724.82465,194.7042)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(410.0,115.0)
+:Sending Touch (ACTION_UP): 0:(407.87326,114.45935)
+:Sending Touch (ACTION_DOWN): 0:(646.0,306.0)
+:Sending Touch (ACTION_UP): 0:(655.96124,307.07516)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(625.0,1885.0)
+:Sending Touch (ACTION_UP): 0:(624.75256,1899.5985)
+:Sending Touch (ACTION_DOWN): 0:(868.0,633.0)
+:Sending Touch (ACTION_UP): 0:(858.7292,637.12415)
+:Sending Touch (ACTION_DOWN): 0:(720.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(664.59204,1495.4049)
+:Sending Touch (ACTION_DOWN): 0:(68.0,418.0)
+    //[calendar_time:2019-12-06 14:06:50.676  system_uptime:339417267]
+    // Sending event #4200
+:Sending Touch (ACTION_UP): 0:(88.74723,460.51343)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1027.0,447.0)
+:Sending Touch (ACTION_UP): 0:(1030.8961,446.6138)
+:Sending Touch (ACTION_DOWN): 0:(486.0,15.0)
+:Sending Touch (ACTION_UP): 0:(487.8632,14.545653)
+:Sending Touch (ACTION_DOWN): 0:(30.0,2056.0)
+:Sending Touch (ACTION_UP): 0:(23.67845,2056.391)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(934.0,987.0)
+:Sending Touch (ACTION_UP): 0:(947.86346,991.4478)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(172.0,97.0)
+:Sending Touch (ACTION_UP): 0:(172.6826,99.90791)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(728.1784,1032.0283)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2019-12-06 14:06:51.352  system_uptime:339417942]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(304.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(300.95056,1110.495)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1665.649)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(813.6374,1721.4373)
+:Sending Touch (ACTION_DOWN): 0:(764.0,538.0)
+:Sending Touch (ACTION_UP): 0:(763.318,534.59705)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(944.0,312.0)
+:Sending Touch (ACTION_UP): 0:(950.3679,312.10614)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(217.0,505.0)
+:Sending Touch (ACTION_UP): 0:(198.60005,464.3643)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2019-12-06 14:06:51.589  system_uptime:339418179]
+    // Sending event #4400
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(305.05933,1099.8204)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(57.965355,1034.0667)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(1061.2638,1190.1063)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(187.74991,1584.1387)
+:Sending Touch (ACTION_DOWN): 0:(20.0,81.0)
+:Sending Touch (ACTION_UP): 0:(16.657385,79.37815)
+:Sending Touch (ACTION_DOWN): 0:(563.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(562.38837,1792.2329)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(442.0,834.0)
+:Sending Touch (ACTION_UP): 0:(403.434,791.2956)
+:Sending Touch (ACTION_DOWN): 0:(632.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(645.3598,1664.7972)
+:Sending Touch (ACTION_DOWN): 0:(170.0,775.0)
+    //[calendar_time:2019-12-06 14:06:51.828  system_uptime:339418418]
+    // Sending event #4500
+:Sending Touch (ACTION_UP): 0:(80.11258,708.53534)
+:Sending Touch (ACTION_DOWN): 0:(168.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(136.95459,1605.5254)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1992.0)
+:Sending Touch (ACTION_UP): 0:(315.17148,1990.4922)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(940.0,567.0)
+:Sending Touch (ACTION_UP): 0:(946.7742,575.489)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(63.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(46.46211,1311.8197)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(169.0,1920.0)
+:Sending Touch (ACTION_UP): 0:(104.775345,2067.168)
+:Sending Touch (ACTION_DOWN): 0:(255.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(248.22006,1745.2761)
+:Sending Touch (ACTION_DOWN): 0:(60.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(66.43876,1246.9087)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,207.0)
+:Sending Touch (ACTION_UP): 0:(1021.71625,152.95561)
+:Sending Touch (ACTION_DOWN): 0:(14.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(45.26357,1168.9325)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2019-12-06 14:06:52.292  system_uptime:339418883]
+    // Sending event #4600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1871.0)
+:Sending Touch (ACTION_UP): 0:(150.08063,1876.2094)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(726.99536,1685.6223)
+:Sending Touch (ACTION_DOWN): 0:(878.0,263.0)
+:Sending Touch (ACTION_UP): 0:(877.7866,251.2257)
+:Sending Touch (ACTION_DOWN): 0:(703.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(734.4637,1162.7869)
+:Sending Touch (ACTION_DOWN): 0:(359.0,471.0)
+:Sending Touch (ACTION_UP): 0:(297.50775,616.0684)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(1073.4597,1093.0771)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(777.19543,988.5798)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(450.0,589.0)
+:Sending Touch (ACTION_UP): 0:(483.01135,637.1777)
+:Sending Touch (ACTION_DOWN): 0:(592.0,1143.0)
+    //[calendar_time:2019-12-06 14:06:52.471  system_uptime:339419062]
+    // Sending event #4700
+:Sending Touch (ACTION_UP): 0:(552.0197,1020.83826)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(551.9855,1698.2201)
+:Sending Touch (ACTION_DOWN): 0:(872.0,624.0)
+:Sending Touch (ACTION_UP): 0:(881.8178,639.3386)
+:Sending Touch (ACTION_DOWN): 0:(169.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(81.24208,1780.4146)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(585.5702,1075.541)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(45.0,670.0)
+:Sending Touch (ACTION_UP): 0:(114.59539,614.54944)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2019-12-06 14:06:52.773  system_uptime:339419363]
+    // Sending event #4800
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveSearchUserActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveSearchUserActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(185.0,115.0)
+:Sending Touch (ACTION_UP): 0:(190.65039,135.86699)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(211.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(209.17221,1199.7057)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(685.0,36.0)
+:Sending Touch (ACTION_UP): 0:(685.9143,41.808647)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1897.0)
+:Sending Touch (ACTION_UP): 0:(178.955,1889.842)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(960.0,714.0)
+:Sending Touch (ACTION_UP): 0:(961.19794,712.8978)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(433.0,1826.0)
+:Sending Touch (ACTION_UP): 0:(430.27704,1828.0525)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(193.0,1402.0)
+:Sending Touch (ACTION_UP): 0:(190.37547,1399.3214)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(695.0,716.0)
+:Sending Touch (ACTION_UP): 0:(702.75305,695.87866)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // activityResuming(com.paiche.net.pczx)
+    //[calendar_time:2019-12-06 14:06:53.326  system_uptime:339419917]
+    // Sending event #4900
+:Sending Touch (ACTION_DOWN): 0:(935.0,275.0)
+:Sending Touch (ACTION_UP): 0:(935.55206,262.7527)
+:Sending Touch (ACTION_DOWN): 0:(723.0,932.0)
+:Sending Touch (ACTION_UP): 0:(740.1554,1006.9648)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(301.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(308.6218,1346.5541)
+:Sending Touch (ACTION_DOWN): 0:(32.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(4.0732217,1118.0238)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(865.0,849.0)
+:Sending Touch (ACTION_UP): 0:(914.1213,823.2746)
+:Sending Touch (ACTION_DOWN): 0:(239.0,574.0)
+:Sending Touch (ACTION_UP): 0:(237.82533,570.55316)
+:Sending Touch (ACTION_DOWN): 0:(852.0,1939.0)
+:Sending Touch (ACTION_UP): 0:(853.39056,1938.8027)
+:Sending Touch (ACTION_DOWN): 0:(51.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(53.604576,1245.3984)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(990.0,1933.0)
+:Sending Touch (ACTION_UP): 0:(1010.7661,1948.7827)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(856.0,296.0)
+    //[calendar_time:2019-12-06 14:06:53.964  system_uptime:339420555]
+    // Sending event #5000
+:Sending Touch (ACTION_UP): 0:(855.969,294.6112)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(666.0,174.0)
+:Sending Touch (ACTION_UP): 0:(658.51074,225.28365)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1955.0)
+:Sending Touch (ACTION_UP): 0:(619.05005,1984.4634)
+:Sending Touch (ACTION_DOWN): 0:(176.0,266.0)
+:Sending Touch (ACTION_UP): 0:(161.34349,262.917)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1047.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(1041.7675,1708.8539)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(681.0,893.0)
+:Sending Touch (ACTION_UP): 0:(682.38885,891.3569)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2019-12-06 14:06:54.253  system_uptime:339420843]
+    // Sending event #5100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(966.0,130.0)
+:Sending Touch (ACTION_UP): 0:(1004.44147,203.09007)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(507.0,22.0)
+:Sending Touch (ACTION_UP): 0:(596.8583,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(225.0,892.0)
+:Sending Touch (ACTION_UP): 0:(218.47595,904.5377)
+:Sending Touch (ACTION_DOWN): 0:(127.0,726.0)
+:Sending Touch (ACTION_UP): 0:(117.49246,713.0971)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2019-12-06 14:06:54.543  system_uptime:339421133]
+    // Sending event #5200
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(706.0,521.0)
+:Sending Touch (ACTION_UP): 0:(703.2197,505.54025)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(370.31998,1454.1211)
+:Sending Touch (ACTION_DOWN): 0:(441.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(437.9036,1254.6643)
+:Sending Touch (ACTION_DOWN): 0:(472.0,593.0)
+:Sending Touch (ACTION_UP): 0:(493.63974,576.70233)
+:Sending Touch (ACTION_DOWN): 0:(798.0,796.0)
+:Sending Touch (ACTION_UP): 0:(796.4762,794.35516)
+:Sending Touch (ACTION_DOWN): 0:(555.0,941.0)
+:Sending Touch (ACTION_UP): 0:(541.9222,975.6022)
+:Sending Touch (ACTION_DOWN): 0:(316.0,104.0)
+:Sending Touch (ACTION_UP): 0:(312.36325,112.24862)
+:Sending Touch (ACTION_DOWN): 0:(839.0,1598.0)
+:Sending Touch (ACTION_UP): 0:(845.1514,1589.1273)
+:Sending Touch (ACTION_DOWN): 0:(950.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(1016.6607,1293.0026)
+:Sending Touch (ACTION_DOWN): 0:(441.0,168.0)
+:Sending Touch (ACTION_UP): 0:(448.76785,168.55246)
+:Sending Touch (ACTION_DOWN): 0:(279.0,472.0)
+:Sending Touch (ACTION_UP): 0:(287.8521,471.38116)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2019-12-06 14:06:54.832  system_uptime:339421423]
+    // Sending event #5300
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(659.0,424.0)
+:Sending Touch (ACTION_UP): 0:(600.13916,473.48087)
+:Sending Touch (ACTION_DOWN): 0:(597.0,482.0)
+:Sending Touch (ACTION_UP): 0:(602.3165,479.65625)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(776.0,1924.0)
+:Sending Touch (ACTION_UP): 0:(781.7822,1910.4932)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(42.0,284.0)
+:Sending Touch (ACTION_UP): 0:(14.049673,248.4409)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(664.0,1720.0)
+:Sending Touch (ACTION_UP): 0:(663.3442,1714.0548)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2019-12-06 14:06:55.057  system_uptime:339421647]
+    // Sending event #5400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(366.0,364.0)
+:Sending Touch (ACTION_UP): 0:(365.06845,364.01575)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(396.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(440.564,1755.942)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(423.0,776.0)
+:Sending Touch (ACTION_UP): 0:(400.87256,795.0306)
+:Sending Touch (ACTION_DOWN): 0:(406.0,339.0)
+    //[calendar_time:2019-12-06 14:06:55.226  system_uptime:339421816]
+    // Sending event #5500
+:Sending Touch (ACTION_UP): 0:(406.27356,272.20032)
+:Sending Touch (ACTION_DOWN): 0:(421.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(384.09525,1716.7198)
+:Sending Touch (ACTION_DOWN): 0:(875.0,86.0)
+:Sending Touch (ACTION_UP): 0:(927.63007,51.54786)
+:Sending Touch (ACTION_DOWN): 0:(127.0,857.0)
+:Sending Touch (ACTION_UP): 0:(124.743774,860.9741)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(215.0,695.0)
+:Sending Touch (ACTION_UP): 0:(220.1261,675.7378)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(878.0,105.0)
+:Sending Touch (ACTION_UP): 0:(875.8712,102.97786)
+:Sending Touch (ACTION_DOWN): 0:(712.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(713.0226,1562.1216)
+:Sending Touch (ACTION_DOWN): 0:(594.0,971.0)
+:Sending Touch (ACTION_UP): 0:(609.4446,960.7313)
+:Sending Touch (ACTION_DOWN): 0:(385.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(384.6821,1327.767)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1096.0)
+:Sending Touch (ACTION_UP): 0:(650.36664,1136.5715)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    //[calendar_time:2019-12-06 14:06:55.616  system_uptime:339422207]
+    // Sending event #5600
+:Sending Touch (ACTION_DOWN): 0:(700.0,851.0)
+:Sending Touch (ACTION_UP): 0:(700.21533,857.0139)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(439.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(424.88605,1627.8033)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(99.0,1672.0)
+:Sending Touch (ACTION_UP): 0:(80.75079,1682.3057)
+:Sending Touch (ACTION_DOWN): 0:(589.0,869.0)
+:Sending Touch (ACTION_UP): 0:(589.62024,885.9552)
+:Sending Touch (ACTION_DOWN): 0:(241.0,370.0)
+:Sending Touch (ACTION_UP): 0:(251.46794,365.7489)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(605.0,308.0)
+:Sending Touch (ACTION_UP): 0:(591.2225,223.68066)
+:Sending Touch (ACTION_DOWN): 0:(855.0,1667.0)
+:Sending Touch (ACTION_UP): 0:(857.4591,1654.2917)
+:Sending Touch (ACTION_DOWN): 0:(751.0,573.0)
+:Sending Touch (ACTION_UP): 0:(748.65765,572.8408)
+:Sending Touch (ACTION_DOWN): 0:(616.0,1890.0)
+:Sending Touch (ACTION_UP): 0:(616.9494,1895.3376)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2019-12-06 14:06:55.909  system_uptime:339422500]
+    // Sending event #5700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1946.0)
+:Sending Touch (ACTION_UP): 0:(476.1765,1923.7047)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1880.0)
+:Sending Touch (ACTION_UP): 0:(344.51547,1821.0715)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(259.97232,1347.1191)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(904.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(937.40594,1671.8646)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2019-12-06 14:06:56.484  system_uptime:339423074]
+    // Sending event #5800
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(709.0,424.0)
+:Sending Touch (ACTION_UP): 0:(668.21735,430.61002)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(95.23508,1412.887)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(445.0,374.0)
+:Sending Touch (ACTION_UP): 0:(444.13696,368.11734)
+:Sending Touch (ACTION_DOWN): 0:(444.0,107.0)
+:Sending Touch (ACTION_UP): 0:(447.4838,92.04461)
+:Sending Touch (ACTION_DOWN): 0:(101.0,231.0)
+:Sending Touch (ACTION_UP): 0:(151.97305,152.26653)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(931.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(936.73175,1258.1669)
+:Sending Touch (ACTION_DOWN): 0:(172.0,591.0)
+:Sending Touch (ACTION_UP): 0:(164.31348,587.0763)
+:Sending Touch (ACTION_DOWN): 0:(142.0,878.0)
+    //[calendar_time:2019-12-06 14:06:56.973  system_uptime:339423563]
+    // Sending event #5900
+:Sending Touch (ACTION_UP): 0:(124.53408,802.05)
+:Sending Touch (ACTION_DOWN): 0:(404.0,357.0)
+:Sending Touch (ACTION_UP): 0:(405.27805,340.19077)
+:Sending Touch (ACTION_DOWN): 0:(516.0,847.0)
+:Sending Touch (ACTION_UP): 0:(506.00266,835.64954)
+:Sending Touch (ACTION_DOWN): 0:(830.0,585.0)
+:Sending Touch (ACTION_UP): 0:(809.62067,575.9444)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(869.78015,1057.501)
+:Sending Touch (ACTION_DOWN): 0:(263.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(351.23767,1562.0653)
+:Sending Touch (ACTION_DOWN): 0:(93.0,203.0)
+:Sending Touch (ACTION_UP): 0:(109.10174,226.73566)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // activityResuming(com.paiche.net.pczx)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(1044.6353,1238.9806)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1791.0)
+:Sending Touch (ACTION_UP): 0:(917.30066,1822.2205)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2019-12-06 14:06:57.447  system_uptime:339424037]
+    // Sending event #6000
+:Sending Touch (ACTION_DOWN): 0:(38.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(56.963543,1152.1068)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(679.0,1820.0)
+:Sending Touch (ACTION_UP): 0:(685.1091,1835.3645)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,872.0)
+:Sending Touch (ACTION_UP): 0:(1009.8227,878.0928)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(710.0,393.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_UP): 0:(692.9389,383.74878)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LocationSelectActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    //[calendar_time:2019-12-06 14:06:58.276  system_uptime:339424866]
+    // Sending event #6100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(255.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(236.78671,1425.8167)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(786.6711,1605.3135)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(348.19763,1564.8723)
+:Sending Touch (ACTION_DOWN): 0:(370.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(367.78784,1230.0214)
+:Sending Touch (ACTION_DOWN): 0:(536.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(529.034,1141.5828)
+:Sending Touch (ACTION_DOWN): 0:(688.0,560.0)
+:Sending Touch (ACTION_UP): 0:(688.5521,565.0844)
+:Sending Touch (ACTION_DOWN): 0:(333.0,142.0)
+:Sending Touch (ACTION_UP): 0:(329.19092,136.88875)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2019-12-06 14:06:59.007  system_uptime:339425598]
+    // Sending event #6200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(430.0,358.0)
+:Sending Touch (ACTION_UP): 0:(429.6683,358.59717)
+:Sending Touch (ACTION_DOWN): 0:(28.0,139.0)
+:Sending Touch (ACTION_UP): 0:(29.621624,137.51442)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(283.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(281.41635,1172.2104)
+    // activityResuming(com.paiche.net.pczx)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.AdImgWebViewActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2019-12-06 14:06:59.997  system_uptime:339426587]
+    // Sending event #6300
+    //[calendar_time:2019-12-06 14:06:59.997  system_uptime:339426588]
+    // Sending event #6300
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(331.78784,1182.3834)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1897.0)
+:Sending Touch (ACTION_UP): 0:(685.83307,1887.5297)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(497.0,351.0)
+:Sending Touch (ACTION_UP): 0:(498.0395,350.54147)
+:Sending Touch (ACTION_DOWN): 0:(220.0,332.0)
+:Sending Touch (ACTION_UP): 0:(223.21616,334.77393)
+:Sending Touch (ACTION_DOWN): 0:(326.0,730.0)
+:Sending Touch (ACTION_UP): 0:(328.26935,731.2077)
+:Sending Touch (ACTION_DOWN): 0:(590.0,649.0)
+:Sending Touch (ACTION_UP): 0:(591.44196,652.85406)
+:Sending Touch (ACTION_DOWN): 0:(916.0,336.0)
+:Sending Touch (ACTION_UP): 0:(918.90515,333.01926)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(910.847,1445.7416)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2019-12-06 14:07:00.457  system_uptime:339427047]
+    // Sending event #6400
+:Sending Touch (ACTION_DOWN): 0:(97.0,41.0)
+:Sending Touch (ACTION_UP): 0:(97.69212,34.66806)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(74.0,527.0)
+:Sending Touch (ACTION_UP): 0:(68.54533,525.7197)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1998.0)
+:Sending Touch (ACTION_UP): 0:(264.15796,2020.8951)
+:Sending Touch (ACTION_DOWN): 0:(331.0,132.0)
+:Sending Touch (ACTION_UP): 0:(334.63678,115.06122)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,714.0)
+:Sending Touch (ACTION_UP): 0:(992.54736,794.1486)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(592.0,204.0)
+:Sending Touch (ACTION_UP): 0:(526.76483,249.13159)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1885.0)
+:Sending Touch (ACTION_UP): 0:(450.27908,1889.4579)
+:Sending Touch (ACTION_DOWN): 0:(171.0,745.0)
+:Sending Touch (ACTION_UP): 0:(143.7026,734.98956)
+:Sending Touch (ACTION_DOWN): 0:(425.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(365.61078,1744.4897)
+:Sending Touch (ACTION_DOWN): 0:(213.0,379.0)
+:Sending Touch (ACTION_UP): 0:(181.75856,380.10257)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2019-12-06 14:07:00.766  system_uptime:339427356]
+    // Sending event #6500
+    // Rejecting start of Intent { act=android.intent.action.ALL_APPS cmp=com.tencent.qqmusic/com.tencent.qqmusiccommon.util.crash.SafeModeLaunchActivity } in package com.tencent.qqmusic
+:Sending Touch (ACTION_DOWN): 0:(961.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(959.0645,1380.8485)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(647.0,549.0)
+:Sending Touch (ACTION_UP): 0:(655.16,583.95154)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(269.0,1856.0)
+:Sending Touch (ACTION_UP): 0:(249.74406,1804.962)
+:Sending Touch (ACTION_DOWN): 0:(974.0,264.0)
+:Sending Touch (ACTION_UP): 0:(1058.2831,206.56392)
+:Sending Touch (ACTION_DOWN): 0:(471.0,691.0)
+:Sending Touch (ACTION_UP): 0:(495.5407,672.3067)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,705.0)
+:Sending Touch (ACTION_UP): 0:(259.71262,717.18274)
+:Sending Touch (ACTION_DOWN): 0:(26.0,524.0)
+:Sending Touch (ACTION_UP): 0:(28.927254,514.48883)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2019-12-06 14:07:00.929  system_uptime:339427519]
+    // Sending event #6600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(641.0,182.0)
+:Sending Touch (ACTION_UP): 0:(639.4373,178.7465)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(915.4389,1226.3873)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(524.0,678.0)
+:Sending Touch (ACTION_UP): 0:(507.24185,682.35925)
+:Sending Touch (ACTION_DOWN): 0:(341.0,416.0)
+:Sending Touch (ACTION_UP): 0:(331.7032,407.88617)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(340.86426,1644.6547)
+:Sending Touch (ACTION_DOWN): 0:(332.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(336.77042,1423.5933)
+    //[calendar_time:2019-12-06 14:07:01.135  system_uptime:339427725]
+    // Sending event #6700
+    //[calendar_time:2019-12-06 14:07:01.136  system_uptime:339427726]
+    // Sending event #6700
+:Sending Touch (ACTION_DOWN): 0:(711.0,392.0)
+:Sending Touch (ACTION_UP): 0:(831.54395,417.12656)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(821.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(805.2712,1475.2118)
+:Sending Touch (ACTION_DOWN): 0:(482.0,560.0)
+:Sending Touch (ACTION_UP): 0:(477.9695,560.08905)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(582.0,431.0)
+:Sending Touch (ACTION_UP): 0:(579.6866,418.11487)
+:Sending Touch (ACTION_DOWN): 0:(721.0,60.0)
+:Sending Touch (ACTION_UP): 0:(735.81714,42.20606)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(256.73267,1085.0883)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2019-12-06 14:07:01.722  system_uptime:339428312]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(455.0,745.0)
+:Sending Touch (ACTION_UP): 0:(450.1233,746.81946)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1953.0)
+:Sending Touch (ACTION_UP): 0:(395.15256,1950.5636)
+:Sending Touch (ACTION_DOWN): 0:(17.0,221.0)
+:Sending Touch (ACTION_UP): 0:(4.2642813,207.5484)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(947.0,709.0)
+:Sending Touch (ACTION_UP): 0:(946.69415,703.7466)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,437.0)
+:Sending Touch (ACTION_UP): 0:(631.89514,435.76315)
+:Sending Touch (ACTION_DOWN): 0:(274.0,555.0)
+:Sending Touch (ACTION_UP): 0:(284.92612,553.95044)
+:Sending Touch (ACTION_DOWN): 0:(227.0,1830.0)
+:Sending Touch (ACTION_UP): 0:(226.51906,1822.6105)
+:Sending Touch (ACTION_DOWN): 0:(475.0,951.0)
+:Sending Touch (ACTION_UP): 0:(467.19147,952.8963)
+:Sending Touch (ACTION_DOWN): 0:(393.0,269.0)
+:Sending Touch (ACTION_UP): 0:(386.9066,277.9129)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(205.0,1854.0)
+:Sending Touch (ACTION_UP): 0:(189.25948,1847.6365)
+:Sending Touch (ACTION_DOWN): 0:(351.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(323.60098,1646.9573)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1044.0,299.0)
+:Sending Touch (ACTION_UP): 0:(1057.2439,315.59113)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1100.0)
+    //[calendar_time:2019-12-06 14:07:02.044  system_uptime:339428634]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(760.48346,1109.0674)
+:Sending Touch (ACTION_DOWN): 0:(273.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(257.4241,1749.208)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(972.0,680.0)
+:Sending Touch (ACTION_UP): 0:(974.3284,666.8416)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(583.44086,1390.3158)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(224.0,76.0)
+:Sending Touch (ACTION_UP): 0:(242.77122,64.68356)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2019-12-06 14:07:02.259  system_uptime:339428850]
+    // Sending event #7000
+:Sending Touch (ACTION_DOWN): 0:(509.0,665.0)
+:Sending Touch (ACTION_UP): 0:(491.16202,665.99146)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(512.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(476.58636,1210.0865)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(652.0,388.0)
+:Sending Touch (ACTION_UP): 0:(519.2361,478.55603)
+:Sending Touch (ACTION_DOWN): 0:(620.0,1806.0)
+:Sending Touch (ACTION_UP): 0:(635.09045,1805.5759)
+:Sending Touch (ACTION_DOWN): 0:(217.0,333.0)
+:Sending Touch (ACTION_UP): 0:(224.55293,330.08267)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,1796.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1797.3058)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1061.8217)
+    //[calendar_time:2019-12-06 14:07:02.443  system_uptime:339429034]
+    // Sending event #7100
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(640.0,105.0)
+:Sending Touch (ACTION_UP): 0:(638.38336,127.82155)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,508.0)
+:Sending Touch (ACTION_UP): 0:(145.87746,510.6178)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(191.0,442.0)
+:Sending Touch (ACTION_UP): 0:(133.17033,463.74078)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(275.8838,1550.7819)
+:Sending Touch (ACTION_DOWN): 0:(104.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(216.40244,1440.9574)
+:Sending Touch (ACTION_DOWN): 0:(215.0,1998.0)
+:Sending Touch (ACTION_UP): 0:(274.03867,1930.2992)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,2034.0)
+:Sending Touch (ACTION_UP): 0:(512.19763,2030.5831)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    //[calendar_time:2019-12-06 14:07:02.761  system_uptime:339429352]
+    // Sending event #7200
+    //[calendar_time:2019-12-06 14:07:02.762  system_uptime:339429353]
+    // Sending event #7200
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(87.0,18.0)
+:Sending Touch (ACTION_UP): 0:(77.44521,19.536762)
+:Sending Touch (ACTION_DOWN): 0:(297.0,912.0)
+:Sending Touch (ACTION_UP): 0:(282.06003,911.59344)
+:Sending Touch (ACTION_DOWN): 0:(934.0,327.0)
+:Sending Touch (ACTION_UP): 0:(921.7549,319.82996)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(29.0,1962.0)
+:Sending Touch (ACTION_UP): 0:(30.217857,1963.4717)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(650.0,607.0)
+:Sending Touch (ACTION_UP): 0:(650.04504,605.9365)
+:Sending Touch (ACTION_DOWN): 0:(121.0,87.0)
+:Sending Touch (ACTION_UP): 0:(120.02415,98.30724)
+    //[calendar_time:2019-12-06 14:07:03.067  system_uptime:339429658]
+    // Sending event #7300
+    //[calendar_time:2019-12-06 14:07:03.067  system_uptime:339429658]
+    // Sending event #7300
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(391.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(497.02838,1787.6937)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(645.0,96.0)
+:Sending Touch (ACTION_UP): 0:(643.78876,93.97311)
+:Sending Touch (ACTION_DOWN): 0:(727.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(629.4349,1565.4275)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(926.0,1964.0)
+:Sending Touch (ACTION_UP): 0:(852.03235,1984.1324)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(1011.0,279.0)
+    //[calendar_time:2019-12-06 14:07:03.817  system_uptime:339430407]
+    // Sending event #7400
+:Sending Touch (ACTION_UP): 0:(1080.0,328.96652)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(805.0,677.0)
+:Sending Touch (ACTION_UP): 0:(806.244,667.6398)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,367.0)
+:Sending Touch (ACTION_UP): 0:(153.3604,458.3369)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1496.0)
+:Sending Touch (ACTION_UP): 0:(269.86255,1517.7039)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(977.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(979.21484,1548.4799)
+:Sending Touch (ACTION_DOWN): 0:(972.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(983.2643,1599.6115)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(865.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(846.1796,1096.3839)
+:Sending Touch (ACTION_DOWN): 0:(629.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(628.52747,1466.137)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,200.0)
+    //[calendar_time:2019-12-06 14:07:04.266  system_uptime:339430857]
+    // Sending event #7500
+:Sending Touch (ACTION_UP): 0:(1078.7725,178.54074)
+:Sending Touch (ACTION_DOWN): 0:(863.0,646.0)
+:Sending Touch (ACTION_UP): 0:(870.3036,651.1078)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(913.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(911.1112,1385.805)
+    // Rejecting start of Intent { act=android.intent.action.SEARCH dat=qsb://query?close_web_page=true&ref=systemui10 pkg=com.android.quicksearchbox cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(906.0,2064.0)
+:Sending Touch (ACTION_UP): 0:(916.5445,2068.0)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(447.13037,1149.463)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsDashboardActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(540.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(552.4225,1086.3638)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(971.0,370.0)
+:Sending Touch (ACTION_UP): 0:(887.3734,355.60098)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1918.0)
+:Sending Touch (ACTION_UP): 0:(237.43071,1925.7617)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1904.0)
+:Sending Touch (ACTION_UP): 0:(150.49402,1888.6583)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2019-12-06 14:07:04.965  system_uptime:339431556]
+    // Sending event #7600
+    //[calendar_time:2019-12-06 14:07:04.966  system_uptime:339431557]
+    // Sending event #7600
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,510.0)
+:Sending Touch (ACTION_UP): 0:(1054.9865,515.0331)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,1545.0)
+:Sending Touch (ACTION_UP): 0:(548.8267,1544.0619)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(782.53625,1646.4214)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(190.83153,1696.9209)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(1070.7776,1558.1354)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(598.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(602.3599,1353.0691)
+:Sending Touch (ACTION_DOWN): 0:(641.0,84.0)
+:Sending Touch (ACTION_UP): 0:(641.41394,73.242226)
+:Sending Touch (ACTION_DOWN): 0:(829.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(830.77826,1225.8671)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(231.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(227.40193,1652.925)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    //[calendar_time:2019-12-06 14:07:05.594  system_uptime:339432185]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(176.0,909.0)
+:Sending Touch (ACTION_UP): 0:(178.06573,919.9631)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(715.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(717.0454,1684.6117)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveMainMeActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveMainMeActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(31.0,488.0)
+:Sending Touch (ACTION_UP): 0:(18.317854,489.65497)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(996.0,846.0)
+:Sending Touch (ACTION_UP): 0:(964.5792,811.4554)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(488.0,835.0)
+:Sending Touch (ACTION_UP): 0:(490.03976,838.6557)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,5.0)
+:Sending Touch (ACTION_UP): 0:(1053.1284,0.0)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(968.198,1524.7694)
+:Sending Touch (ACTION_DOWN): 0:(905.0,574.0)
+:Sending Touch (ACTION_UP): 0:(922.93835,571.8483)
+:Sending Touch (ACTION_DOWN): 0:(536.0,1635.0)
+:Sending Touch (ACTION_UP): 0:(454.14255,1630.8456)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    //[calendar_time:2019-12-06 14:07:06.350  system_uptime:339432940]
+    // Sending event #7800
+:Sending Touch (ACTION_DOWN): 0:(420.0,364.0)
+:Sending Touch (ACTION_UP): 0:(429.85608,366.21378)
+:Sending Touch (ACTION_DOWN): 0:(221.0,317.0)
+:Sending Touch (ACTION_UP): 0:(263.78622,287.12198)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(721.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(715.1062,1737.1931)
+:Sending Touch (ACTION_DOWN): 0:(627.0,25.0)
+:Sending Touch (ACTION_UP): 0:(626.64294,22.698565)
+:Sending Touch (ACTION_DOWN): 0:(599.0,397.0)
+:Sending Touch (ACTION_UP): 0:(602.5058,395.2339)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(1030.1005,1405.632)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(426.0,664.0)
+:Sending Touch (ACTION_UP): 0:(436.87506,690.5806)
+:Sending Touch (ACTION_DOWN): 0:(651.0,451.0)
+:Sending Touch (ACTION_UP): 0:(656.3314,467.7713)
+:Sending Touch (ACTION_DOWN): 0:(716.0,15.0)
+:Sending Touch (ACTION_UP): 0:(710.33704,17.611164)
+:Sending Touch (ACTION_DOWN): 0:(866.0,1881.0)
+:Sending Touch (ACTION_UP): 0:(833.91284,1882.9137)
+:Sending Touch (ACTION_DOWN): 0:(791.0,1592.0)
+:Sending Touch (ACTION_UP): 0:(786.44135,1599.2473)
+:Sending Touch (ACTION_DOWN): 0:(851.0,281.0)
+:Sending Touch (ACTION_UP): 0:(783.73285,316.68066)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1852.0)
+    //[calendar_time:2019-12-06 14:07:06.737  system_uptime:339433328]
+    // Sending event #7900
+:Sending Touch (ACTION_UP): 0:(393.94635,1793.941)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1848.0)
+:Sending Touch (ACTION_UP): 0:(287.08377,1862.6014)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(387.0,405.0)
+:Sending Touch (ACTION_UP): 0:(367.40765,401.58847)
+:Sending Touch (ACTION_DOWN): 0:(679.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(677.3177,1272.2551)
+:Sending Touch (ACTION_DOWN): 0:(170.0,2047.0)
+:Sending Touch (ACTION_UP): 0:(200.40994,2068.0)
+:Sending Touch (ACTION_DOWN): 0:(646.0,277.0)
+:Sending Touch (ACTION_UP): 0:(641.3368,267.8212)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2019-12-06 14:07:06.995  system_uptime:339433586]
+    // Sending event #8000
+:Sending Touch (ACTION_DOWN): 0:(599.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(572.5072,1136.8871)
+:Sending Touch (ACTION_DOWN): 0:(943.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(940.0768,1048.6022)
+:Sending Touch (ACTION_DOWN): 0:(690.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(653.7774,1465.0292)
+:Sending Touch (ACTION_DOWN): 0:(71.0,477.0)
+:Sending Touch (ACTION_UP): 0:(76.48627,479.8436)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1804.0)
+:Sending Touch (ACTION_UP): 0:(958.3089,1842.8453)
+:Sending Touch (ACTION_DOWN): 0:(106.0,38.0)
+:Sending Touch (ACTION_UP): 0:(125.228386,29.656319)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(41.0,759.0)
+:Sending Touch (ACTION_UP): 0:(57.992756,778.70685)
+:Sending Touch (ACTION_DOWN): 0:(778.0,783.0)
+:Sending Touch (ACTION_UP): 0:(764.6496,781.86334)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1825.0)
+:Sending Touch (ACTION_UP): 0:(578.7601,1855.307)
+:Sending Touch (ACTION_DOWN): 0:(171.0,868.0)
+:Sending Touch (ACTION_UP): 0:(196.42084,781.1031)
+:Sending Touch (ACTION_DOWN): 0:(787.0,215.0)
+:Sending Touch (ACTION_UP): 0:(775.6562,214.79533)
+:Sending Touch (ACTION_DOWN): 0:(251.0,63.0)
+:Sending Touch (ACTION_UP): 0:(250.77036,80.723724)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(932.0683,1597.6984)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(18.0,2035.0)
+:Sending Touch (ACTION_UP): 0:(14.17138,2047.5433)
+    //[calendar_time:2019-12-06 14:07:08.706  system_uptime:339435297]
+    // Sending event #8100
+    //[calendar_time:2019-12-06 14:07:08.707  system_uptime:339435298]
+    // Sending event #8100
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1392.2546)
+:Sending Touch (ACTION_DOWN): 0:(476.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(481.51126,1468.3969)
+:Sending Touch (ACTION_DOWN): 0:(275.0,964.0)
+:Sending Touch (ACTION_UP): 0:(271.4155,964.5451)
+:Sending Touch (ACTION_DOWN): 0:(294.0,211.0)
+:Sending Touch (ACTION_UP): 0:(293.85483,218.38275)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(1045.864,1191.7487)
+:Sending Touch (ACTION_DOWN): 0:(776.0,211.0)
+:Sending Touch (ACTION_UP): 0:(798.3685,204.25204)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(620.3994,1083.5297)
+:Sending Touch (ACTION_DOWN): 0:(112.0,5.0)
+:Sending Touch (ACTION_UP): 0:(108.90734,24.02926)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(72.73409,999.17145)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(692.5099,1564.6841)
+:Sending Touch (ACTION_DOWN): 0:(918.0,644.0)
+:Sending Touch (ACTION_UP): 0:(920.74176,643.6831)
+:Sending Touch (ACTION_DOWN): 0:(104.0,228.0)
+:Sending Touch (ACTION_UP): 0:(101.9189,234.37201)
+:Sending Touch (ACTION_DOWN): 0:(946.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(946.2315,1758.722)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,166.0)
+:Sending Touch (ACTION_UP): 0:(1006.61206,161.554)
+:Sending Touch (ACTION_DOWN): 0:(276.0,241.0)
+:Sending Touch (ACTION_UP): 0:(228.345,270.37576)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(873.95636,1168.4268)
+:Sending Touch (ACTION_DOWN): 0:(690.0,37.0)
+:Sending Touch (ACTION_UP): 0:(695.87476,32.75472)
+:Sending Touch (ACTION_DOWN): 0:(177.0,917.0)
+:Sending Touch (ACTION_UP): 0:(159.07208,920.1721)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2019-12-06 14:07:09.361  system_uptime:339435952]
+    // Sending event #8200
+:Sending Touch (ACTION_DOWN): 0:(385.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(372.07056,1765.2747)
+:Sending Touch (ACTION_DOWN): 0:(363.0,392.0)
+:Sending Touch (ACTION_UP): 0:(363.32913,393.0633)
+:Sending Touch (ACTION_DOWN): 0:(620.0,964.0)
+:Sending Touch (ACTION_UP): 0:(641.6917,964.22577)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(323.36185,1771.1814)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(408.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(404.4967,1013.91205)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    //[calendar_time:2019-12-06 14:07:09.669  system_uptime:339436259]
+    // Sending event #8300
+:Sending Touch (ACTION_DOWN): 0:(664.0,2030.0)
+:Sending Touch (ACTION_UP): 0:(680.7965,2058.134)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(590.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(589.78217,1502.7834)
+:Sending Touch (ACTION_DOWN): 0:(779.0,970.0)
+:Sending Touch (ACTION_UP): 0:(828.894,876.0851)
+:Sending Touch (ACTION_DOWN): 0:(554.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(613.0308,1231.618)
+:Sending Touch (ACTION_DOWN): 0:(265.0,898.0)
+:Sending Touch (ACTION_UP): 0:(276.51437,899.07715)
+:Sending Touch (ACTION_DOWN): 0:(182.0,103.0)
+:Sending Touch (ACTION_UP): 0:(185.19237,104.635506)
+:Sending Touch (ACTION_DOWN): 0:(298.0,435.0)
+:Sending Touch (ACTION_UP): 0:(305.52066,437.59314)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1428.0)
+:Sending Touch (ACTION_UP): 0:(997.88806,1436.7804)
+    //[calendar_time:2019-12-06 14:07:09.873  system_uptime:339436463]
+    // Sending event #8400
+:Sending Touch (ACTION_DOWN): 0:(679.0,1192.0)
+:Sending Touch (ACTION_UP): 0:(676.7833,1192.779)
+:Sending Touch (ACTION_DOWN): 0:(470.0,117.0)
+:Sending Touch (ACTION_UP): 0:(472.55072,121.751114)
+:Sending Touch (ACTION_DOWN): 0:(495.0,1681.0)
+:Sending Touch (ACTION_UP): 0:(487.00696,1676.4778)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(139.0,1249.0)
+:Sending Touch (ACTION_UP): 0:(134.23607,1245.1636)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(593.0,699.0)
+:Sending Touch (ACTION_UP): 0:(572.40454,709.13116)
+:Sending Touch (ACTION_DOWN): 0:(373.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(279.50784,1178.9828)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2019-12-06 14:07:10.146  system_uptime:339436737]
+    // Sending event #8500
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(902.0,957.0)
+:Sending Touch (ACTION_UP): 0:(901.58295,946.519)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1739.0)
+:Sending Touch (ACTION_UP): 0:(597.61554,1733.7135)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(156.47359,1314.8585)
+:Sending Touch (ACTION_DOWN): 0:(333.0,2041.0)
+:Sending Touch (ACTION_UP): 0:(334.73468,2041.5189)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(341.0,277.0)
+:Sending Touch (ACTION_UP): 0:(311.77026,246.90312)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(19.847979,1507.7708)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,55.0)
+:Sending Touch (ACTION_UP): 0:(624.95245,68.2379)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2019-12-06 14:07:10.570  system_uptime:339437161]
+    // Sending event #8600
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,604.0)
+:Sending Touch (ACTION_UP): 0:(383.83337,552.89545)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,86.0)
+:Sending Touch (ACTION_UP): 0:(243.02913,87.81142)
+:Sending Touch (ACTION_DOWN): 0:(18.0,603.0)
+:Sending Touch (ACTION_UP): 0:(0.0,581.43744)
+:Sending Touch (ACTION_DOWN): 0:(187.0,541.0)
+:Sending Touch (ACTION_UP): 0:(181.74026,546.48047)
+:Sending Touch (ACTION_DOWN): 0:(945.0,1866.0)
+:Sending Touch (ACTION_UP): 0:(958.29065,1871.3516)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(907.0,508.0)
+:Sending Touch (ACTION_UP): 0:(906.02826,513.0348)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2019-12-06 14:07:11.136  system_uptime:339437726]
+    // Sending event #8700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(405.0,608.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_UP): 0:(388.3932,529.93994)
+:Sending Touch (ACTION_DOWN): 0:(977.0,893.0)
+:Sending Touch (ACTION_UP): 0:(1054.9093,875.85236)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(907.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(905.63904,1148.144)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(257.83942,1312.3351)
+:Sending Touch (ACTION_DOWN): 0:(284.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(277.0196,1110.848)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(898.28265,1376.0109)
+    //[calendar_time:2019-12-06 14:07:11.524  system_uptime:339438115]
+    // Sending event #8800
+    //[calendar_time:2019-12-06 14:07:11.524  system_uptime:339438115]
+    // Sending event #8800
+:Sending Touch (ACTION_DOWN): 0:(167.0,1570.0)
+:Sending Touch (ACTION_UP): 0:(168.2953,1558.8514)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(446.0,1895.0)
+:Sending Touch (ACTION_UP): 0:(460.85583,1900.3055)
+:Sending Touch (ACTION_DOWN): 0:(859.0,834.0)
+:Sending Touch (ACTION_UP): 0:(816.8785,794.22144)
+:Sending Touch (ACTION_DOWN): 0:(833.0,794.0)
+:Sending Touch (ACTION_UP): 0:(851.1053,813.91016)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(506.92795,1300.8358)
+:Sending Touch (ACTION_DOWN): 0:(396.0,1569.0)
+:Sending Touch (ACTION_UP): 0:(402.8251,1558.8306)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(1074.0278,1336.4884)
+:Sending Touch (ACTION_DOWN): 0:(944.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(962.4168,1019.6344)
+:Sending Touch (ACTION_DOWN): 0:(411.0,1451.0)
+    //[calendar_time:2019-12-06 14:07:12.109  system_uptime:339438699]
+    // Sending event #8900
+:Sending Touch (ACTION_UP): 0:(496.91608,1491.8087)
+:Sending Touch (ACTION_DOWN): 0:(318.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(309.41153,1613.152)
+:Sending Touch (ACTION_DOWN): 0:(464.0,41.0)
+:Sending Touch (ACTION_UP): 0:(453.303,40.854755)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(65.80226,1550.4357)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(833.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(818.4194,1241.2748)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(972.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(971.14264,1005.97595)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(140.0,2053.0)
+:Sending Touch (ACTION_UP): 0:(145.87007,2055.2896)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1942.0)
+:Sending Touch (ACTION_UP): 0:(238.05818,1940.6785)
+:Sending Touch (ACTION_DOWN): 0:(532.0,355.0)
+:Sending Touch (ACTION_UP): 0:(533.0706,352.5053)
+:Sending Touch (ACTION_DOWN): 0:(393.0,1963.0)
+:Sending Touch (ACTION_UP): 0:(480.52966,1905.566)
+:Sending Touch (ACTION_DOWN): 0:(789.0,1903.0)
+:Sending Touch (ACTION_UP): 0:(787.9504,1915.6927)
+:Sending Touch (ACTION_DOWN): 0:(671.0,308.0)
+:Sending Touch (ACTION_UP): 0:(671.0171,311.55658)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1925.0)
+:Sending Touch (ACTION_UP): 0:(366.54474,1943.3655)
+:Sending Touch (ACTION_DOWN): 0:(559.0,29.0)
+    //[calendar_time:2019-12-06 14:07:12.580  system_uptime:339439171]
+    // Sending event #9000
+:Sending Touch (ACTION_UP): 0:(580.98615,27.18678)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(159.52106,1491.7617)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(214.46114,1367.6737)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(244.0,2059.0)
+:Sending Touch (ACTION_UP): 0:(249.56064,2058.0208)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(832.52844,1325.6971)
+:Sending Touch (ACTION_DOWN): 0:(707.0,2046.0)
+:Sending Touch (ACTION_UP): 0:(697.39526,2036.74)
+    //[calendar_time:2019-12-06 14:07:12.880  system_uptime:339439471]
+    // Sending event #9100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(293.0,551.0)
+:Sending Touch (ACTION_UP): 0:(315.616,547.52075)
+    // activityResuming(com.paiche.net.pczx)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(806.0,1980.0)
+:Sending Touch (ACTION_UP): 0:(822.3713,1985.9421)
+:Sending Touch (ACTION_DOWN): 0:(313.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(314.41812,1304.96)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(546.0,1865.0)
+:Sending Touch (ACTION_UP): 0:(537.3959,1865.293)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(210.60727,1532.4829)
+:Sending Touch (ACTION_DOWN): 0:(556.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(553.4931,1289.1057)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(854.0,411.0)
+:Sending Touch (ACTION_UP): 0:(773.152,287.0731)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1840.0)
+:Sending Touch (ACTION_UP): 0:(593.9447,1835.0527)
+    //[calendar_time:2019-12-06 14:07:13.515  system_uptime:339440106]
+    // Sending event #9200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(786.0,2004.0)
+:Sending Touch (ACTION_UP): 0:(789.2023,2008.7913)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LoginWebActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LoginWebActivity } in package com.paiche.net.pczx
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(498.30518,1328.2416)
+:Sending Touch (ACTION_DOWN): 0:(413.0,300.0)
+:Sending Touch (ACTION_UP): 0:(425.1128,318.0877)
+:Sending Touch (ACTION_DOWN): 0:(163.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(169.54803,1340.6635)
+:Sending Touch (ACTION_DOWN): 0:(0.0,933.0)
+:Sending Touch (ACTION_UP): 0:(0.0,946.3457)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(697.0062,1146.9296)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2019-12-06 14:07:14.136  system_uptime:339440727]
+    // Sending event #9300
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(618.0,1233.0)
+:Sending Touch (ACTION_UP): 0:(642.89594,1212.7444)
+:Sending Touch (ACTION_DOWN): 0:(189.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(187.70702,1313.0797)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(752.0812,1748.3473)
+:Sending Touch (ACTION_DOWN): 0:(303.0,753.0)
+:Sending Touch (ACTION_UP): 0:(303.59723,756.6918)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(9.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(9.307264,1494.7478)
+:Sending Touch (ACTION_DOWN): 0:(29.0,622.0)
+:Sending Touch (ACTION_UP): 0:(18.812826,611.051)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,999.0)
+:Sending Touch (ACTION_UP): 0:(1022.0763,997.4819)
+:Sending Touch (ACTION_DOWN): 0:(879.0,150.0)
+:Sending Touch (ACTION_UP): 0:(890.3327,150.32724)
+:Sending Touch (ACTION_DOWN): 0:(46.0,2045.0)
+:Sending Touch (ACTION_UP): 0:(71.61664,2028.2717)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(820.0,926.0)
+:Sending Touch (ACTION_UP): 0:(809.48627,932.5112)
+:Sending Touch (ACTION_DOWN): 0:(208.0,782.0)
+:Sending Touch (ACTION_UP): 0:(229.45145,783.1373)
+    //[calendar_time:2019-12-06 14:07:14.776  system_uptime:339441367]
+    // Sending event #9400
+    //[calendar_time:2019-12-06 14:07:14.777  system_uptime:339441367]
+    // Sending event #9400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1172.0)
+:Sending Touch (ACTION_UP): 0:(208.01659,1167.4373)
+:Sending Touch (ACTION_DOWN): 0:(512.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(479.6846,1246.7455)
+:Sending Touch (ACTION_DOWN): 0:(969.0,437.0)
+:Sending Touch (ACTION_UP): 0:(965.1646,432.51007)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(919.0,1986.0)
+:Sending Touch (ACTION_UP): 0:(906.788,2010.5862)
+:Sending Touch (ACTION_DOWN): 0:(421.0,68.0)
+:Sending Touch (ACTION_UP): 0:(427.9823,73.714264)
+:Sending Touch (ACTION_DOWN): 0:(869.0,87.0)
+:Sending Touch (ACTION_UP): 0:(871.7796,90.40909)
+:Sending Touch (ACTION_DOWN): 0:(124.0,876.0)
+:Sending Touch (ACTION_UP): 0:(67.45776,933.8287)
+:Sending Touch (ACTION_DOWN): 0:(409.0,678.0)
+:Sending Touch (ACTION_UP): 0:(426.8719,712.8745)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(907.0,199.0)
+:Sending Touch (ACTION_UP): 0:(938.2217,220.49857)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,102.0)
+    //[calendar_time:2019-12-06 14:07:15.496  system_uptime:339442087]
+    // Sending event #9500
+:Sending Touch (ACTION_UP): 0:(487.43134,37.06289)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { cmp=com.paiche.net.pczx/.activity.LiveNewWebViewActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(516.0,715.0)
+:Sending Touch (ACTION_UP): 0:(516.50604,714.4233)
+:Sending Touch (ACTION_DOWN): 0:(184.0,988.0)
+:Sending Touch (ACTION_UP): 0:(147.10225,1074.8304)
+:Sending Touch (ACTION_DOWN): 0:(655.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(634.78326,1625.6038)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1181.0)
+:Sending Touch (ACTION_UP): 0:(904.7511,1201.2621)
+:Sending Touch (ACTION_DOWN): 0:(928.0,680.0)
+:Sending Touch (ACTION_UP): 0:(941.1185,681.81116)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(1061.8226,1437.0922)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(420.0,648.0)
+    //[calendar_time:2019-12-06 14:07:16.414  system_uptime:339443005]
+    // Sending event #9600
+:Sending Touch (ACTION_UP): 0:(501.50827,678.2209)
+:Sending Touch (ACTION_DOWN): 0:(987.0,431.0)
+:Sending Touch (ACTION_UP): 0:(993.91113,432.08005)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(409.0,2018.0)
+:Sending Touch (ACTION_UP): 0:(404.76068,2035.6979)
+:Sending Touch (ACTION_DOWN): 0:(823.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(790.70844,1374.1433)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1814.0)
+:Sending Touch (ACTION_UP): 0:(823.41144,1798.8936)
+:Sending Touch (ACTION_DOWN): 0:(458.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(484.34805,1488.8083)
+:Sending Touch (ACTION_DOWN): 0:(849.0,406.0)
+    // activityResuming(com.paiche.net.pczx)
+:Sending Touch (ACTION_UP): 0:(820.75757,488.59827)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,810.0)
+:Sending Touch (ACTION_UP): 0:(517.1296,822.30597)
+:Sending Touch (ACTION_DOWN): 0:(451.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(440.31555,1277.5234)
+:Sending Touch (ACTION_DOWN): 0:(794.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(805.6007,1741.7118)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2019-12-06 14:07:16.951  system_uptime:339443541]
+    // Sending event #9700
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    // activityResuming(com.paiche.net.pczx)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(183.0,76.0)
+:Sending Touch (ACTION_UP): 0:(180.85928,75.40089)
+:Sending Touch (ACTION_DOWN): 0:(59.0,827.0)
+:Sending Touch (ACTION_UP): 0:(0.0,839.9597)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(188.0,600.0)
+:Sending Touch (ACTION_UP): 0:(185.91666,597.7216)
+:Sending Touch (ACTION_DOWN): 0:(279.0,423.0)
+:Sending Touch (ACTION_UP): 0:(279.83026,429.67993)
+:Sending Touch (ACTION_DOWN): 0:(710.0,2019.0)
+:Sending Touch (ACTION_UP): 0:(710.411,2016.0935)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(541.0,889.0)
+:Sending Touch (ACTION_UP): 0:(543.7028,902.3847)
+:Sending Touch (ACTION_DOWN): 0:(571.0,1462.0)
+    //[calendar_time:2019-12-06 14:07:17.760  system_uptime:339444350]
+    // Sending event #9800
+:Sending Touch (ACTION_UP): 0:(635.70044,1497.9592)
+:Sending Touch (ACTION_DOWN): 0:(650.0,650.0)
+:Sending Touch (ACTION_UP): 0:(795.46716,677.7793)
+:Sending Touch (ACTION_DOWN): 0:(109.0,119.0)
+:Sending Touch (ACTION_UP): 0:(106.70067,100.54213)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(812.0,1900.0)
+:Sending Touch (ACTION_UP): 0:(824.68726,1892.4755)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(226.0,1886.0)
+:Sending Touch (ACTION_UP): 0:(244.85043,1886.5651)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(985.7578,1262.4681)
+:Sending Touch (ACTION_DOWN): 0:(565.0,857.0)
+:Sending Touch (ACTION_UP): 0:(566.44415,868.89966)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1925.0)
+:Sending Touch (ACTION_UP): 0:(605.4188,1924.8253)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,1078.0)
+:Sending Touch (ACTION_UP): 0:(1060.1975,1074.6461)
+:Sending Touch (ACTION_DOWN): 0:(294.0,571.0)
+:Sending Touch (ACTION_UP): 0:(304.5248,575.46155)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(699.0,806.0)
+:Sending Touch (ACTION_UP): 0:(687.0688,809.0319)
+:Sending Touch (ACTION_DOWN): 0:(909.0,1380.0)
+    //[calendar_time:2019-12-06 14:07:18.107  system_uptime:339444698]
+    // Sending event #9900
+:Sending Touch (ACTION_UP): 0:(845.8804,1340.4265)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(582.0,1989.0)
+:Sending Touch (ACTION_UP): 0:(596.3967,1977.171)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(619.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(616.7502,1474.0879)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1847.0)
+:Sending Touch (ACTION_UP): 0:(162.6404,1855.1599)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(756.0,597.0)
+:Sending Touch (ACTION_UP): 0:(750.8852,604.27936)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(483.0,216.0)
+:Sending Touch (ACTION_UP): 0:(557.7775,156.15904)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(943.9186,1439.0713)
+:Sending Touch (ACTION_DOWN): 0:(583.0,947.0)
+:Sending Touch (ACTION_UP): 0:(593.3005,914.1085)
+:Sending Touch (ACTION_DOWN): 0:(957.0,627.0)
+:Sending Touch (ACTION_UP): 0:(961.352,625.7046)
+:Sending Touch (ACTION_DOWN): 0:(541.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(538.6746,1047.0273)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(662.5247,1693.1006)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(553.8143,1372.498)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2019-12-06 14:07:18.693  system_uptime:339445284]
+    // Sending event #10000
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(1016.97894,1657.3105)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(584.0,1525.0)
+:Sending Touch (ACTION_UP): 0:(509.19568,1477.5902)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(1004.45,1530.9252)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1650.0)
+:Sending Touch (ACTION_UP): 0:(138.46521,1656.5465)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(446.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(466.56934,1693.1666)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(446.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(468.44626,1738.8423)
+    //[calendar_time:2019-12-06 14:07:19.502  system_uptime:339446092]
+    // Sending event #10100
+    //[calendar_time:2019-12-06 14:07:19.502  system_uptime:339446093]
+    // Sending event #10100
+:Sending Touch (ACTION_DOWN): 0:(333.0,122.0)
+:Sending Touch (ACTION_UP): 0:(349.27234,122.81624)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(251.0,2020.0)
+:Sending Touch (ACTION_UP): 0:(260.20355,2016.2988)
+:Sending Touch (ACTION_DOWN): 0:(467.0,1804.0)
+:Sending Touch (ACTION_UP): 0:(465.94952,1804.2104)
+:Sending Touch (ACTION_DOWN): 0:(113.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(103.56585,1642.0397)
+:Sending Touch (ACTION_DOWN): 0:(162.0,235.0)
+:Sending Touch (ACTION_UP): 0:(107.621315,188.8102)
+:Sending Touch (ACTION_DOWN): 0:(199.0,22.0)
+:Sending Touch (ACTION_UP): 0:(254.0472,0.0)
+:Sending Touch (ACTION_DOWN): 0:(893.0,79.0)
+:Sending Touch (ACTION_UP): 0:(889.89557,86.55776)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,72.0)
+:Sending Touch (ACTION_UP): 0:(1010.3138,104.01674)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2019-12-06 14:07:19.956  system_uptime:339446546]
+    // Sending event #10200
+    //[calendar_time:2019-12-06 14:07:19.956  system_uptime:339446547]
+    // Sending event #10200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(526.27045,997.22266)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,536.0)
+:Sending Touch (ACTION_UP): 0:(1043.6891,534.8447)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(728.0,1798.0)
+:Sending Touch (ACTION_UP): 0:(723.38556,1807.5275)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(579.0,445.0)
+:Sending Touch (ACTION_UP): 0:(576.9462,457.90112)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(1045.7783,1771.1929)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.calculator/.cal.CalculatorActivity } in package com.miui.calculator
+:Sending Touch (ACTION_DOWN): 0:(988.0,694.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,836.65753)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(594.0,1817.0)
+:Sending Touch (ACTION_UP): 0:(574.61053,1813.4197)
+:Sending Touch (ACTION_DOWN): 0:(681.0,1455.0)
+:Sending Touch (ACTION_UP): 0:(680.9911,1455.3578)
+:Sending Touch (ACTION_DOWN): 0:(42.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(41.214508,1638.1987)
+:Sending Touch (ACTION_DOWN): 0:(720.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(730.80304,1423.0084)
+    //[calendar_time:2019-12-06 14:07:20.799  system_uptime:339447390]
+    // Sending event #10300
+    //[calendar_time:2019-12-06 14:07:20.800  system_uptime:339447391]
+    // Sending event #10300
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(758.0,569.0)
+:Sending Touch (ACTION_UP): 0:(758.8354,579.9947)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(222.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(228.0454,1486.4058)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(599.7815,1612.5367)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2019-12-06 14:07:21.235  system_uptime:339447825]
+    // Sending event #10400
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(58.0,522.0)
+:Sending Touch (ACTION_UP): 0:(26.470436,597.3672)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(423.0,856.0)
+:Sending Touch (ACTION_UP): 0:(431.73642,901.2993)
+:Sending Touch (ACTION_DOWN): 0:(162.0,678.0)
+:Sending Touch (ACTION_UP): 0:(158.61047,662.7589)
+:Sending Touch (ACTION_DOWN): 0:(607.0,998.0)
+:Sending Touch (ACTION_UP): 0:(627.9603,908.5619)
+:Sending Touch (ACTION_DOWN): 0:(828.0,707.0)
+:Sending Touch (ACTION_UP): 0:(859.70276,714.7027)
+:Sending Touch (ACTION_DOWN): 0:(929.0,1853.0)
+:Sending Touch (ACTION_UP): 0:(918.31726,1844.5743)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2019-12-06 14:07:21.688  system_uptime:339448278]
+    // Sending event #10500
+:Sending Touch (ACTION_DOWN): 0:(530.0,172.0)
+:Sending Touch (ACTION_UP): 0:(511.74466,170.11688)
+:Sending Touch (ACTION_DOWN): 0:(591.0,951.0)
+:Sending Touch (ACTION_UP): 0:(588.90063,947.8357)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(663.0,28.0)
+:Sending Touch (ACTION_UP): 0:(648.49567,18.722837)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(67.0,1797.0)
+:Sending Touch (ACTION_UP): 0:(60.923428,1789.1194)
+:Sending Touch (ACTION_DOWN): 0:(64.0,214.0)
+:Sending Touch (ACTION_UP): 0:(65.09566,195.53488)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(555.21094,1660.5487)
+:Sending Touch (ACTION_DOWN): 0:(86.0,921.0)
+:Sending Touch (ACTION_UP): 0:(85.40173,921.11957)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(455.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(454.72253,1207.3416)
+:Sending Touch (ACTION_DOWN): 0:(177.0,2060.0)
+:Sending Touch (ACTION_UP): 0:(187.24986,2055.642)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2019-12-06 14:07:22.685  system_uptime:339449276]
+    // Sending event #10600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Touch (ACTION_DOWN): 0:(545.0,181.0)
+:Sending Touch (ACTION_UP): 0:(548.10114,183.82642)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(603.4171,1246.3676)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(616.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(629.992,1647.4498)
+:Sending Touch (ACTION_DOWN): 0:(20.0,111.0)
+:Sending Touch (ACTION_UP): 0:(8.717894,102.33036)
+:Sending Touch (ACTION_DOWN): 0:(817.0,1816.0)
+:Sending Touch (ACTION_UP): 0:(783.22174,1751.1686)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(808.9859,1302.4742)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2019-12-06 14:07:23.037  system_uptime:339449627]
+    // Sending event #10700
+:Sending Touch (ACTION_DOWN): 0:(563.0,1957.0)
+:Sending Touch (ACTION_UP): 0:(576.66235,1950.6837)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(366.0,64.0)
+:Sending Touch (ACTION_UP): 0:(366.43185,65.32055)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(224.0,251.0)
+:Sending Touch (ACTION_UP): 0:(224.26767,252.90193)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(436.47476,1219.0338)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(244.28606,1303.4293)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1696.0)
+    //[calendar_time:2019-12-06 14:07:23.663  system_uptime:339450254]
+    // Sending event #10800
+:Sending Touch (ACTION_UP): 0:(289.75418,1604.8572)
+:Sending Touch (ACTION_DOWN): 0:(819.0,1895.0)
+:Sending Touch (ACTION_UP): 0:(826.82544,1955.1082)
+:Sending Touch (ACTION_DOWN): 0:(661.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(652.9633,1271.4313)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(693.0,1993.0)
+:Sending Touch (ACTION_UP): 0:(686.4485,2006.6368)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(154.0,1160.0)
+:Sending Touch (ACTION_UP): 0:(183.66505,1148.8424)
+:Sending Touch (ACTION_DOWN): 0:(235.0,417.0)
+:Sending Touch (ACTION_UP): 0:(246.34067,443.6007)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1968.0)
+:Sending Touch (ACTION_UP): 0:(951.5059,1960.6597)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1866.0)
+:Sending Touch (ACTION_UP): 0:(523.83386,1840.164)
+:Sending Touch (ACTION_DOWN): 0:(257.0,830.0)
+:Sending Touch (ACTION_UP): 0:(253.56825,869.5174)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(586.69305,1350.4504)
+    //[calendar_time:2019-12-06 14:07:24.255  system_uptime:339450845]
+    // Sending event #10900
+:Sending Touch (ACTION_DOWN): 0:(488.0,1592.0)
+:Sending Touch (ACTION_UP): 0:(496.94067,1592.2068)
+:Sending Touch (ACTION_DOWN): 0:(124.0,529.0)
+:Sending Touch (ACTION_UP): 0:(46.217724,534.5259)
+:Sending Touch (ACTION_DOWN): 0:(208.0,480.0)
+:Sending Touch (ACTION_UP): 0:(293.2188,498.52603)
+:Sending Touch (ACTION_DOWN): 0:(347.0,1428.0)
+:Sending Touch (ACTION_UP): 0:(358.6821,1427.6106)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(634.5039,1549.3171)
+:Sending Touch (ACTION_DOWN): 0:(147.0,790.0)
+:Sending Touch (ACTION_UP): 0:(64.85377,779.0958)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1066.0,973.0)
+:Sending Touch (ACTION_UP): 0:(989.47186,905.6649)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(237.0,342.0)
+:Sending Touch (ACTION_UP): 0:(239.09895,352.63287)
+:Sending Touch (ACTION_DOWN): 0:(402.0,170.0)
+    //[calendar_time:2019-12-06 14:07:24.827  system_uptime:339451417]
+    // Sending event #11000
+:Sending Touch (ACTION_UP): 0:(409.57596,220.05328)
+:Sending Touch (ACTION_DOWN): 0:(343.0,727.0)
+:Sending Touch (ACTION_UP): 0:(358.37738,706.2601)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(497.0,832.0)
+:Sending Touch (ACTION_UP): 0:(501.3108,851.4966)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1423.1588)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,13.0)
+:Sending Touch (ACTION_UP): 0:(972.889,0.0)
+:Sending Touch (ACTION_DOWN): 0:(337.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(219.85712,1054.5305)
+:Sending Touch (ACTION_DOWN): 0:(545.0,688.0)
+:Sending Touch (ACTION_UP): 0:(532.54224,694.7698)
+:Sending Touch (ACTION_DOWN): 0:(344.0,659.0)
+:Sending Touch (ACTION_UP): 0:(327.9849,654.94214)
+:Sending Touch (ACTION_DOWN): 0:(85.0,877.0)
+:Sending Touch (ACTION_UP): 0:(90.361336,882.42523)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(501.39227,1672.8561)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(848.6821,1796.3376)
+:Sending Touch (ACTION_DOWN): 0:(854.0,950.0)
+:Sending Touch (ACTION_UP): 0:(857.7156,937.0828)
+:Sending Touch (ACTION_DOWN): 0:(501.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(491.57132,1265.0983)
+    //[calendar_time:2019-12-06 14:07:25.245  system_uptime:339451835]
+    // Sending event #11100
+:Sending Touch (ACTION_DOWN): 0:(311.0,288.0)
+:Sending Touch (ACTION_UP): 0:(317.4883,293.2895)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(773.063,1768.1178)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1834.0)
+:Sending Touch (ACTION_UP): 0:(649.95557,1891.6975)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(196.0,464.0)
+:Sending Touch (ACTION_UP): 0:(189.11433,473.23724)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,1895.0)
+:Sending Touch (ACTION_UP): 0:(1062.7731,1906.1908)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(344.84695,1298.5958)
+:Sending Touch (ACTION_DOWN): 0:(220.0,1546.0)
+:Sending Touch (ACTION_UP): 0:(220.2671,1532.5947)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.paiche.net.pczx/com.paiche.module_init.activity.InitActivity } in package com.paiche.net.pczx
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(417.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(411.15286,1132.7874)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2019-12-06 14:07:25.825  system_uptime:339452416]
+    // Sending event #11200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(787.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(828.1087,1723.2886)
+:Sending Touch (ACTION_DOWN): 0:(54.0,4.0)
+:Sending Touch (ACTION_UP): 0:(31.108414,90.50665)
+:Sending Touch (ACTION_DOWN): 0:(678.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(696.02234,1071.3138)
+:Sending Touch (ACTION_DOWN): 0:(699.0,381.0)
+:Sending Touch (ACTION_UP): 0:(705.21533,347.69315)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,169.0)
+:Sending Touch (ACTION_UP): 0:(138.90215,167.9366)
+:Sending Touch (ACTION_DOWN): 0:(710.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(665.97986,1024.3901)
+:Sending Touch (ACTION_DOWN): 0:(671.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(663.3452,1556.0538)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2019-12-06 14:07:26.133  system_uptime:339452724]
+    // Sending event #11300
+    //[calendar_time:2019-12-06 14:07:26.134  system_uptime:339452724]
+    // Sending event #11300
+:Sending Touch (ACTION_DOWN): 0:(791.0,812.0)
+:Sending Touch (ACTION_UP): 0:(766.8543,904.4516)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(318.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(323.95395,1317.4639)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1993.0)
+:Sending Touch (ACTION_UP): 0:(185.30232,1980.5155)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(78.00572,1376.0862)
+:Sending Touch (ACTION_DOWN): 0:(583.0,1121.0)
+:Sending Touch (ACTION_UP): 0:(544.8609,1087.4064)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,763.0)
+:Sending Touch (ACTION_UP): 0:(1022.0677,798.03937)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(860.7169,1020.20685)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2019-12-06 14:07:26.575  system_uptime:339453166]
+    // Sending event #11400
+    //[calendar_time:2019-12-06 14:07:26.575  system_uptime:339453166]
+    // Sending event #11400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(576.0,829.0)
+:Sending Touch (ACTION_UP): 0:(572.8379,831.7566)
+:Sending Touch (ACTION_DOWN): 0:(293.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(279.86185,1072.9159)
+:Sending Touch (ACTION_DOWN): 0:(764.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(834.88385,1577.2357)
+:Sending Touch (ACTION_DOWN): 0:(280.0,193.0)
+:Sending Touch (ACTION_UP): 0:(279.20538,173.6024)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,1802.0)
+:Sending Touch (ACTION_UP): 0:(1073.4891,1804.2935)
+:Sending Touch (ACTION_DOWN): 0:(674.0,542.0)
+:Sending Touch (ACTION_UP): 0:(571.1317,637.3397)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(1043.8973,1085.7856)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,209.0)
+:Sending Touch (ACTION_UP): 0:(1078.6764,206.06093)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2019-12-06 14:07:26.925  system_uptime:339453515]
+    // Sending event #11500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,20.0)
+:Sending Touch (ACTION_UP): 0:(287.04788,35.99311)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(819.0,83.0)
+:Sending Touch (ACTION_UP): 0:(827.9877,81.989044)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+** Monkey aborted due to error.
+Events injected: 11552
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=32 rotations=0
+## Network stats: elapsed time=57649ms (0ms mobile, 0ms wifi, 57649ms not connected)
